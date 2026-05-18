@@ -21,8 +21,8 @@ const shake = keyframes`
   80%       { transform: translateX(calc(-50% + 4px)) rotate(1deg); }
 `;
 const radialGlow = keyframes`
-  0%, 100% { box-shadow: 0 0 0 0 rgba(239,68,68,0.0), 0 8px 32px rgba(239,68,68,0.15); }
-  50%       { box-shadow: 0 0 0 14px rgba(239,68,68,0.15), 0 8px 32px rgba(239,68,68,0.35); }
+  0%, 100% { box-shadow: none; }
+  50%       { box-shadow: none; }
 `;
 const numberPop = keyframes`
   0%   { transform: scale(1.4); opacity: 0.5; }

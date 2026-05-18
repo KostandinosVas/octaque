@@ -56,7 +56,6 @@ export default function CognitiveRadarChart({ scores }: CognitiveRadarChartProps
               border: '1px solid #e2e8f0',
               borderRadius: '0.625rem',
               fontSize: '0.875rem',
-              boxShadow: '0 4px 6px -1px rgba(0,0,0,0.07)',
             }}
             formatter={(value) => [`${value ?? 0} / 100`, 'Score']}
           />

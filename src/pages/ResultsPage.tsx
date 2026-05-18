@@ -49,7 +49,6 @@ const OverallCard = styled.div`
   text-align: center;
   color: white;
   margin-bottom: 1.5rem;
-  box-shadow: 0 8px 20px rgba(79, 70, 229, 0.3);
 `;
 
 const OverallScore = styled.div`
@@ -70,7 +69,6 @@ const Section = styled.div`
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--border-radius-xl);
-  box-shadow: var(--shadow-md);
   overflow: hidden;
   margin-bottom: 1.5rem;
 `;

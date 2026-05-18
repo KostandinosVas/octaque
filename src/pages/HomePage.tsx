@@ -74,9 +74,8 @@ const CTABtn = styled.button<{ $size?: 'lg' | 'md' }>`
   cursor: pointer;
   padding: ${p => p.$size === 'lg' ? '1rem 2rem' : '0.75rem 1.5rem'};
   font-size: ${p => p.$size === 'lg' ? '1.0625rem' : '0.9375rem'};
-  box-shadow: 0 6px 24px rgba(107,56,212,0.35);
-  transition: transform 0.15s, box-shadow 0.15s;
-  &:hover { transform: translateY(-2px); box-shadow: 0 10px 30px rgba(107,56,212,0.45); }
+  transition: transform 0.15s;
+  &:hover { transform: translateY(-2px); }
   &:active { transform: translateY(0); }
 `;
 
@@ -87,7 +86,6 @@ const NavBar = styled.nav`
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid rgba(107,56,212,0.07);
-  box-shadow: 0 2px 20px rgba(107,56,212,0.05);
 `;
 const NavInner = styled.div`
   max-width: 1100px; margin: 0 auto; padding: 0 1.25rem;
@@ -173,7 +171,6 @@ const BrainCard = styled.div`
   position: relative; width: 320px; height: 320px;
   border-radius: 2rem;
   display: flex; align-items: center; justify-content: center;
-  box-shadow: 0 24px 64px rgba(107,56,212,0.35);
   background: linear-gradient(135deg, #e0e7ff 0%, #faf5ff 100%);
 `;
 const BrainEmoji = styled.div`
@@ -190,7 +187,6 @@ const FloatTag = styled.div<{ $top?: string; $bottom?: string; $left?: string; $
   background: rgba(255,255,255,0.95);
   border-radius: 1rem; padding: 0.625rem 1rem;
   display: flex; align-items: center; gap: 0.5rem;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
   font-size: 0.8125rem; font-weight: 700; color: #0f172a; white-space: nowrap;
 `;
 const TagDot = styled.div<{ $color: string }>`
@@ -219,7 +215,6 @@ const StepNum   = styled.div`
   background:linear-gradient(135deg,#6b38d4,#4f46e5);
   color:white;display:flex;align-items:center;justify-content:center;
   font-family:'Anybody',sans-serif;font-size:1.25rem;font-weight:800;flex-shrink:0;
-  box-shadow:0 6px 18px rgba(107,56,212,0.3);
 `;
 const StepIcon  = styled.div`
   width:56px;height:56px;border-radius:1rem;
@@ -239,8 +234,8 @@ const WhyCard  = styled.div`
   padding:1.5rem;border-radius:1.25rem;
   background:#faf5ff;border:1px solid rgba(107,56,212,0.1);
   display:flex;flex-direction:column;gap:0.75rem;
-  transition:transform 0.15s,box-shadow 0.15s;
-  &:hover{transform:translateY(-3px);box-shadow:0 12px 32px rgba(107,56,212,0.1);}
+  transition:transform 0.15s;
+  &:hover{transform:translateY(-3px);}
 `;
 const WhyIcon  = styled.div`font-size:1.875rem;`;
 const WhyTitle = styled.h3`font-weight:700;font-size:1rem;color:#0f172a;`;
@@ -265,10 +260,9 @@ const FeatGrid = styled.div`
 const FeatCard  = styled.div`
   padding:1.75rem 1.5rem;border-radius:1.25rem;
   background:white;border:1px solid #e2e8f0;
-  box-shadow:0 4px 16px rgba(0,0,0,0.04);
   display:flex;flex-direction:column;gap:1rem;
-  transition:transform 0.15s,box-shadow 0.15s;
-  &:hover{transform:translateY(-3px);box-shadow:0 12px 32px rgba(107,56,212,0.1);border-color:rgba(107,56,212,0.2);}
+  transition:transform 0.15s;
+  &:hover{transform:translateY(-3px);border-color:rgba(107,56,212,0.2);}
 `;
 const FeatIcon  = styled.div`
   width:52px;height:52px;border-radius:1rem;
@@ -286,7 +280,6 @@ const TestGrid = styled.div`
 const TestCard  = styled.div`
   padding:1.5rem;border-radius:1.25rem;
   background:white;border:1px solid #e2e8f0;
-  box-shadow:0 4px 16px rgba(0,0,0,0.04);
   display:flex;flex-direction:column;gap:1rem;
 `;
 const Stars     = styled.div`font-size:1rem;letter-spacing:2px;color:#f59e0b;`;
@@ -348,9 +341,8 @@ const CTAWhiteBtn = styled.button`
   background:white;color:#6b38d4;border:none;border-radius:9999px;
   font-family:'Rubik',sans-serif;font-weight:700;font-size:1.0625rem;
   padding:1rem 2.25rem;cursor:pointer;
-  box-shadow:0 8px 32px rgba(0,0,0,0.2);
-  transition:transform 0.15s,box-shadow 0.15s;
-  &:hover{transform:translateY(-2px);box-shadow:0 14px 40px rgba(0,0,0,0.25);}
+  transition:transform 0.15s;
+  &:hover{transform:translateY(-2px);}
   &:active{transform:translateY(0);}
 `;
 

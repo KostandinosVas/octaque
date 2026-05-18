@@ -43,7 +43,6 @@ const MemCard = styled.div`
   background: #fff;
   border-radius: 1.25rem;
   padding: 2.5rem 2rem;
-  box-shadow: 0 4px 24px rgba(107,56,212,0.10);
   border: 1px solid rgba(107,56,212,0.12);
   display: flex;
   flex-direction: column;
@@ -102,7 +101,6 @@ const MemReadyBtn = styled.button`
   font-weight: 700;
   font-size: 0.9375rem;
   cursor: pointer;
-  box-shadow: 0 4px 16px rgba(107,56,212,0.3);
   transition: transform 0.15s;
   &:hover { transform: translateY(-1px); }
 `;

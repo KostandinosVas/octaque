@@ -2,7 +2,6 @@
   background: var(--color-surface);
   border-radius: var(--border-radius-xl);
   border: 1px solid var(--color-border);
-  box-shadow: var(--shadow-md);
   padding: 1.75rem;
   width: 100%;
   animation: fadeInUp 0.35s ease both;
@@ -37,8 +36,7 @@
   transition:
     border-color 150ms ease,
     background 150ms ease,
-    transform 150ms ease,
-    box-shadow 150ms ease;
+    transform 150ms ease;
   font-size: 0.9375rem;
   color: var(--color-text);
   font-family: var(--font-family);
@@ -58,7 +56,6 @@
 .optionButton.selected {
   border-color: var(--color-primary);
   background: var(--color-primary-light);
-  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.15);
 }
 
 .optionButton.answered:not(.selected) {
