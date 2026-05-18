@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "dimension": "Logical Reasoning",
+    "question": "Which number comes next in the sequence: 2, 6, 12, 20, 30, ...?",
+    "options": ["40", "42", "44", "48"],
+    "correct_answer": "42"
+  },
+  {
+    "id": 2,
+    "dimension": "Logical Reasoning",
+    "question": "If all roses are flowers, and some flowers fade quickly, does it mean some roses fade quickly?",
+    "options": ["Yes", "No", "Cannot be determined", "Only red roses"],
+    "correct_answer": "Cannot be determined"
+  },
+  {
+    "id": 3,
+    "dimension": "Logical Reasoning",
+    "question": "Odometer is to mileage as compass is to:",
+    "options": ["Speed", "Hiking", "Needle", "Direction"],
+    "correct_answer": "Direction"
+  },
+  {
+    "id": 4,
+    "dimension": "Logical Reasoning",
+    "question": "The day before yesterday was Thursday. What day will it be tomorrow?",
+    "options": ["Sunday", "Monday", "Saturday", "Tuesday"],
+    "correct_answer": "Sunday"
+  },
+  {
+    "id": 5,
+    "dimension": "Logical Reasoning",
+    "question": "Find the odd one out.",
+    "options": ["Guitar", "Violin", "Flute", "Cello"],
+    "correct_answer": "Flute"
+  },
+  {
+    "id": 6,
+    "dimension": "Logical Reasoning",
+    "question": "If A is taller than B, and B is taller than C, which statement is definitely true?",
+    "options": ["C is taller than A", "A is the tallest", "B is the shortest", "A and C are the same height"],
+    "correct_answer": "A is the tallest"
+  },
+  {
+    "id": 7,
+    "dimension": "Logical Reasoning",
+    "question": "Which letter comes next in the series: B, D, G, K, ...?",
+    "options": ["N", "O", "P", "Q"],
+    "correct_answer": "P"
+  },
+  {
+    "id": 8,
+    "dimension": "Logical Reasoning",
+    "question": "A is the mother of B. B is the sister of C. C is the father of D. How is A related to D?",
+    "options": ["Mother", "Aunt", "Grandmother", "Sister"],
+    "correct_answer": "Grandmother"
+  },
+  {
+    "id": 9,
+    "dimension": "Logical Reasoning",
+    "question": "If you rearrange the letters 'CIFAIPC', you would have the name of an:",
+    "options": ["Animal", "Ocean", "Country", "City"],
+    "correct_answer": "Ocean"
+  },
+  {
+    "id": 10,
+    "dimension": "Logical Reasoning",
+    "question": "Some months have 30 days, some have 31. How many have 28?",
+    "options": ["1", "6", "12", "Depends on leap year"],
+    "correct_answer": "12"
+  },
+  {
+    "id": 11,
+    "dimension": "Logical Reasoning",
+    "question": "If 'APPLE' is coded as 'BQQMF', how is 'DOG' coded?",
+    "options": ["EPH", "FPI", "CPG", "EQH"],
+    "correct_answer": "EPH"
+  },
+  {
+    "id": 12,
+    "dimension": "Logical Reasoning",
+    "question": "Which word does not belong with the others?",
+    "options": ["Circle", "Triangle", "Sphere", "Square"],
+    "correct_answer": "Sphere"
+  },
+  {
+    "id": 13,
+    "dimension": "Numerical Ability",
+    "question": "What is 15% of 200?",
+    "options": ["15", "20", "30", "45"],
+    "correct_answer": "30"
+  },
+  {
+    "id": 14,
+    "dimension": "Numerical Ability",
+    "question": "Solve the equation: 8 + 4 \u00d7 2 - 3 =",
+    "options": ["21", "13", "11", "24"],
+    "correct_answer": "13"
+  },
+  {
+    "id": 15,
+    "dimension": "Numerical Ability",
+    "question": "If 5 apples cost $2.00, how much do 15 apples cost?",
+    "options": ["$4.00", "$5.00", "$6.00", "$10.00"],
+    "correct_answer": "$6.00"
+  },
+  {
+    "id": 16,
+    "dimension": "Numerical Ability",
+    "question": "What is the square root of 144?",
+    "options": ["10", "12", "14", "16"],
+    "correct_answer": "12"
+  },
+  {
+    "id": 17,
+    "dimension": "Numerical Ability",
+    "question": "A train travels at 60 mph for 2.5 hours. How far does it travel?",
+    "options": ["120 miles", "140 miles", "150 miles", "180 miles"],
+    "correct_answer": "150 miles"
+  },
+  {
+    "id": 18,
+    "dimension": "Numerical Ability",
+    "question": "What is the next prime number after 11?",
+    "options": ["12", "13", "15", "17"],
+    "correct_answer": "13"
+  },
+  {
+    "id": 19,
+    "dimension": "Numerical Ability",
+    "question": "Convert the fraction 3/4 to a decimal.",
+    "options": ["0.34", "0.50", "0.75", "0.80"],
+    "correct_answer": "0.75"
+  },
+  {
+    "id": 20,
+    "dimension": "Numerical Ability",
+    "question": "Solve for x: 3x - 5 = 16",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": "7"
+  },
+  {
+    "id": 21,
+    "dimension": "Numerical Ability",
+    "question": "A shirt is originally $40 but is on sale for 25% off. What is the sale price?",
+    "options": ["$10", "$25", "$30", "$35"],
+    "correct_answer": "$30"
+  },
+  {
+    "id": 22,
+    "dimension": "Numerical Ability",
+    "question": "What is 5 cubed (5^3)?",
+    "options": ["15", "25", "125", "225"],
+    "correct_answer": "125"
+  },
+  {
+    "id": 23,
+    "dimension": "Numerical Ability",
+    "question": "If you buy 3 books for $12 each and give the cashier a $50 bill, what is your change?",
+    "options": ["$12", "$14", "$24", "$38"],
+    "correct_answer": "$14"
+  },
+  {
+    "id": 24,
+    "dimension": "Numerical Ability",
+    "question": "What is the average of the numbers 4, 8, 10, and 18?",
+    "options": ["8", "10", "12", "14"],
+    "correct_answer": "10"
+  },
+  {
+    "id": 25,
+    "dimension": "Verbal Intelligence",
+    "question": "Which word is a synonym for 'Abundant'?",
+    "options": ["Scarce", "Plentiful", "Empty", "Brief"],
+    "correct_answer": "Plentiful"
+  },
+  {
+    "id": 26,
+    "dimension": "Verbal Intelligence",
+    "question": "Which word is an antonym for 'Benevolent'?",
+    "options": ["Kind", "Cruel", "Smart", "Wealthy"],
+    "correct_answer": "Cruel"
+  },
+  {
+    "id": 27,
+    "dimension": "Verbal Intelligence",
+    "question": "Identify the correctly spelled word.",
+    "options": ["Accommodate", "Acommodate", "Accomodate", "Acomodate"],
+    "correct_answer": "Accommodate"
+  },
+  {
+    "id": 28,
+    "dimension": "Verbal Intelligence",
+    "question": "Tree is to Forest as Star is to:",
+    "options": ["Night", "Space", "Galaxy", "Sun"],
+    "correct_answer": "Galaxy"
+  },
+  {
+    "id": 29,
+    "dimension": "Verbal Intelligence",
+    "question": "What does the word 'Ephemeral' mean?",
+    "options": ["Glowing", "Short-lived", "Ancient", "Complicated"],
+    "correct_answer": "Short-lived"
+  },
+  {
+    "id": 30,
+    "dimension": "Verbal Intelligence",
+    "question": "In the sentence 'The swift fox jumped', what part of speech is 'swift'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "correct_answer": "Adjective"
+  },
+  {
+    "id": 31,
+    "dimension": "Verbal Intelligence",
+    "question": "Which of these words means 'to alleviate or lessen'?",
+    "options": ["Aggravate", "Mitigate", "Instigate", "Replicate"],
+    "correct_answer": "Mitigate"
+  },
+  {
+    "id": 32,
+    "dimension": "Verbal Intelligence",
+    "question": "What is the plural of 'Criterion'?",
+    "options": ["Criterions", "Criteria", "Criterias", "Criterion"],
+    "correct_answer": "Criteria"
+  },
+  {
+    "id": 33,
+    "dimension": "Verbal Intelligence",
+    "question": "If someone says it's 'raining cats and dogs', they are using an:",
+    "options": ["Oxymoron", "Idiom", "Alliteration", "Onomatopoeia"],
+    "correct_answer": "Idiom"
+  },
+  {
+    "id": 34,
+    "dimension": "Verbal Intelligence",
+    "question": "Choose the correct homophone to complete the sentence: 'She went __ the store.'",
+    "options": ["To", "Too", "Two", "Tew"],
+    "correct_answer": "To"
+  },
+  {
+    "id": 35,
+    "dimension": "Verbal Intelligence",
+    "question": "Which word is the odd one out based on meaning?",
+    "options": ["Ecstatic", "Jubilant", "Melancholy", "Elated"],
+    "correct_answer": "Melancholy"
+  },
+  {
+    "id": 36,
+    "dimension": "Spatial Intelligence",
+    "question": "If you are facing North, turn 90 degrees clockwise, then 180 degrees counter-clockwise, what direction are you facing?",
+    "options": ["North", "South", "East", "West"],
+    "correct_answer": "West"
+  },
+  {
+    "id": 37,
+    "dimension": "Spatial Intelligence",
+    "question": "How many edges does a standard cube have?",
+    "options": ["6", "8", "12", "16"],
+    "correct_answer": "12"
+  },
+  {
+    "id": 38,
+    "dimension": "Spatial Intelligence",
+    "question": "A piece of paper is folded in half twice, and a single hole is punched through all layers. How many holes are there when unfolded?",
+    "options": ["1", "2", "4", "8"],
+    "correct_answer": "4"
+  },
+  {
+    "id": 39,
+    "dimension": "Spatial Intelligence",
+    "question": "Imagine the lowercase letter 'b'. If you rotate it 180 degrees clockwise, what letter does it look like?",
+    "options": ["p", "q", "d", "b"],
+    "correct_answer": "q"
+  },
+  {
+    "id": 40,
+    "dimension": "Spatial Intelligence",
+    "question": "If you cut a solid cylinder exactly down the middle vertically, what 2D shape are the new flat internal faces?",
+    "options": ["Circles", "Squares", "Rectangles", "Triangles"],
+    "correct_answer": "Rectangles"
+  },
+  {
+    "id": 41,
+    "dimension": "Spatial Intelligence",
+    "question": "You walk 3 miles straight North, then turn exactly East and walk 4 miles. How far are you from your starting point in a straight line?",
+    "options": ["5 miles", "7 miles", "12 miles", "1 mile"],
+    "correct_answer": "5 miles"
+  },
+  {
+    "id": 42,
+    "dimension": "Spatial Intelligence",
+    "question": "Imagine a square. If you draw a straight line from the top-left corner to the bottom-right corner, what two shapes are formed?",
+    "options": ["Two rectangles", "Two right triangles", "Two acute triangles", "Two rhombuses"],
+    "correct_answer": "Two right triangles"
+  },
+  {
+    "id": 43,
+    "dimension": "Spatial Intelligence",
+    "question": "If a 3D shape has exactly one flat circular base and one continuous curved surface ending in a point, what is it?",
+    "options": ["Cylinder", "Sphere", "Pyramid", "Cone"],
+    "correct_answer": "Cone"
+  },
+  {
+    "id": 44,
+    "dimension": "Spatial Intelligence",
+    "question": "If you overlap a transparent yellow square entirely over a transparent blue square, what color is the overlapped area?",
+    "options": ["Green", "Purple", "Orange", "Brown"],
+    "correct_answer": "Green"
+  },
+  {
+    "id": 45,
+    "dimension": "Spatial Intelligence",
+    "question": "If you turn a right-hand glove completely inside out, which hand will it now fit properly?",
+    "options": ["Right hand", "Left hand", "Neither", "Both"],
+    "correct_answer": "Left hand"
+  },
+  {
+    "id": 46,
+    "dimension": "Spatial Intelligence",
+    "question": "Look at the word 'MOM'. If you flip it horizontally (like looking in a mirror), how does it change?",
+    "options": ["It becomes 'WOW'", "It looks exactly the same", "The M's face backwards", "It becomes 'OOM'"],
+    "correct_answer": "It looks exactly the same"
+  },
+  {
+    "id": 47,
+    "dimension": "Memory",
+    "question": "General Knowledge: How many days are in a standard leap year?",
+    "options": ["364", "365", "366", "367"],
+    "correct_answer": "366"
+  },
+  {
+    "id": 48,
+    "dimension": "Memory",
+    "question": "General Knowledge: What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correct_answer": "Canberra"
+  },
+  {
+    "id": 49,
+    "dimension": "Memory",
+    "question": "Recall: Read this list quickly: 'Apple, Train, Cloud, Book'. Which was the third item?",
+    "options": ["Apple", "Book", "Train", "Cloud"],
+    "correct_answer": "Cloud"
+  },
+  {
+    "id": 50,
+    "dimension": "Memory",
+    "question": "General Knowledge: In the popular color acronym ROYGBIV, what does the 'V' stand for?",
+    "options": ["Velvet", "Violet", "Vibrant", "Vanilla"],
+    "correct_answer": "Violet"
+  },
+  {
+    "id": 51,
+    "dimension": "Memory",
+    "question": "General Knowledge: Who is the author of the play 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+    "correct_answer": "William Shakespeare"
+  },
+  {
+    "id": 52,
+    "dimension": "Memory",
+    "question": "General Knowledge: What is the chemical symbol for Gold?",
+    "options": ["Go", "Ag", "Au", "Gd"],
+    "correct_answer": "Au"
+  },
+  {
+    "id": 53,
+    "dimension": "Memory",
+    "question": "General Knowledge: In what year did the Titanic sink?",
+    "options": ["1905", "1912", "1920", "1898"],
+    "correct_answer": "1912"
+  },
+  {
+    "id": 54,
+    "dimension": "Memory",
+    "question": "General Knowledge: Which is the largest ocean on Earth?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "correct_answer": "Pacific"
+  },
+  {
+    "id": 55,
+    "dimension": "Memory",
+    "question": "General Knowledge: At what temperature Celsius does water normally freeze?",
+    "options": ["0", "32", "100", "50"],
+    "correct_answer": "0"
+  },
+  {
+    "id": 56,
+    "dimension": "Memory",
+    "question": "General Knowledge: How many planets are officially recognized in our solar system?",
+    "options": ["7", "8", "9", "10"],
+    "correct_answer": "8"
+  },
+  {
+    "id": 57,
+    "dimension": "Memory",
+    "question": "Recall: Think back to the first question in this test. What sequence did it ask you to complete?",
+    "options": ["1, 2, 3, 4", "2, 4, 6, 8", "2, 6, 12, 20", "A, B, C, D"],
+    "correct_answer": "2, 6, 12, 20"
+  },
+  {
+    "id": 58,
+    "dimension": "Processing Speed",
+    "question": "Quick counting: How many vowels are in the word 'COGNITIVE'?",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": "4"
+  },
+  {
+    "id": 59,
+    "dimension": "Processing Speed",
+    "question": "True or False: 50 is exactly half of 100.",
+    "options": ["True", "False", "Neither", "Both"],
+    "correct_answer": "True"
+  },
+  {
+    "id": 60,
+    "dimension": "Processing Speed",
+    "question": "Which word is longer by character count?",
+    "options": ["Elephant", "Rhinoceros", "Hippopotamus", "Crocodile"],
+    "correct_answer": "Hippopotamus"
+  },
+  {
+    "id": 61,
+    "dimension": "Processing Speed",
+    "question": "Does the letter 'M' appear anywhere in the word 'ALPHABET'?",
+    "options": ["Yes", "No", "Maybe", "Only in lowercase"],
+    "correct_answer": "No"
+  },
+  {
+    "id": 62,
+    "dimension": "Processing Speed",
+    "question": "How many months of the year have exactly 31 days?",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": "7"
+  },
+  {
+    "id": 63,
+    "dimension": "Processing Speed",
+    "question": "Count the total number of 't's in this phrase: 'Little red tractor'",
+    "options": ["2", "3", "4", "5"],
+    "correct_answer": "4"
+  },
+  {
+    "id": 64,
+    "dimension": "Processing Speed",
+    "question": "Identify the highest number quickly: 45, 54, 44, 55, 49.",
+    "options": ["45", "54", "55", "49"],
+    "correct_answer": "55"
+  },
+  {
+    "id": 65,
+    "dimension": "Processing Speed",
+    "question": "True or False: A standard square has 5 sides.",
+    "options": ["True", "False", "Depends", "Only in 3D"],
+    "correct_answer": "False"
+  },
+  {
+    "id": 66,
+    "dimension": "Processing Speed",
+    "question": "What is the 5th letter of the English alphabet?",
+    "options": ["D", "E", "F", "G"],
+    "correct_answer": "E"
+  },
+  {
+    "id": 67,
+    "dimension": "Processing Speed",
+    "question": "Are the words 'Brake' and 'Break' pronounced the exact same way?",
+    "options": ["Yes", "No", "Only in British English", "Only in American English"],
+    "correct_answer": "Yes"
+  },
+  {
+    "id": 68,
+    "dimension": "Processing Speed",
+    "question": "How many zeros are in the number one million?",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": "6"
+  },
+  {
+    "id": 69,
+    "dimension": "Emotional Intelligence",
+    "question": "A coworker takes credit for your project idea in a meeting. What is the most emotionally intelligent response?",
+    "options": ["Yell at them immediately", "Say nothing and resent them", "Address it privately and calmly with them later", "Complain to all your other coworkers"],
+    "correct_answer": "Address it privately and calmly with them later"
+  },
+  {
+    "id": 70,
+    "dimension": "Emotional Intelligence",
+    "question": "What primary emotion is usually characterized by a downturned mouth, slouched posture, and withdrawal?",
+    "options": ["Joy", "Anger", "Surprise", "Sadness"],
+    "correct_answer": "Sadness"
+  },
+  {
+    "id": 71,
+    "dimension": "Emotional Intelligence",
+    "question": "Which of the following best defines 'Empathy'?",
+    "options": ["Feeling pity for someone's misfortune", "Understanding and sharing the feelings of another", "Ignoring emotions to focus on facts", "Always agreeing with others"],
+    "correct_answer": "Understanding and sharing the feelings of another"
+  },
+  {
+    "id": 72,
+    "dimension": "Emotional Intelligence",
+    "question": "A friend cancels plans last minute because they feel overwhelmed with anxiety. You should:",
+    "options": ["Guilt trip them for ruining your night", "Express understanding and ask how you can support them", "Ignore their messages for a week", "Tell them to 'get over it'"],
+    "correct_answer": "Express understanding and ask how you can support them"
+  },
+  {
+    "id": 73,
+    "dimension": "Emotional Intelligence",
+    "question": "Which body language cue is generally a sign of active, engaged listening?",
+    "options": ["Checking your phone constantly", "Crossing your arms tightly", "Maintaining appropriate eye contact and nodding", "Staring blankly past the person"],
+    "correct_answer": "Maintaining appropriate eye contact and nodding"
+  },
+  {
+    "id": 74,
+    "dimension": "Emotional Intelligence",
+    "question": "Recognizing that your own stress is causing you to snap at others is an example of:",
+    "options": ["Self-awareness", "Social manipulation", "Apathy", "Defensiveness"],
+    "correct_answer": "Self-awareness"
+  },
+  {
+    "id": 75,
+    "dimension": "Emotional Intelligence",
+    "question": "When receiving constructive criticism from a boss, the best approach is to:",
+    "options": ["Argue back immediately to defend yourself", "Listen openly, ask clarifying questions, and reflect", "Cry to make them feel bad", "Quit the job on the spot"],
+    "correct_answer": "Listen openly, ask clarifying questions, and reflect"
+  },
+  {
+    "id": 76,
+    "dimension": "Emotional Intelligence",
+    "question": "The phrase 'Reading the room' refers to:",
+    "options": ["Checking the thermostat", "Sensing the collective emotional mood of a group", "Looking for the exit signs", "Reading a speech from a podium"],
+    "correct_answer": "Sensing the collective emotional mood of a group"
+  },
+  {
+    "id": 77,
+    "dimension": "Emotional Intelligence",
+    "question": "If someone crosses their arms and physically turns their body away from you during a conversation, they might be expressing:",
+    "options": ["Extreme joy", "Complete agreement", "Defensiveness or discomfort", "Boredom to the point of sleep"],
+    "correct_answer": "Defensiveness or discomfort"
+  },
+  {
+    "id": 78,
+    "dimension": "Emotional Intelligence",
+    "question": "Taking a deep breath to regulate your temper during a stressful traffic jam is an example of:",
+    "options": ["Self-management", "Social awareness", "Empathy", "Relationship management"],
+    "correct_answer": "Self-management"
+  },
+  {
+    "id": 79,
+    "dimension": "Emotional Intelligence",
+    "question": "What is a healthy, emotionally mature way to handle a disagreement with a partner?",
+    "options": ["Giving them the silent treatment", "Bringing up past mistakes to win the argument", "Collaborating to find a mutually beneficial solution", "Walking out and slamming the door"],
+    "correct_answer": "Collaborating to find a mutually beneficial solution"
+  },
+  {
+    "id": 80,
+    "dimension": "Creativity",
+    "question": "Which of these represents the most unconventional, divergent use for a standard house brick?",
+    "options": ["Building a garden wall", "Holding down a tarp in the wind", "Grinding it into powder to make red paint pigment", "Using it as a temporary doorstop"],
+    "correct_answer": "Grinding it into powder to make red paint pigment"
+  },
+  {
+    "id": 81,
+    "dimension": "Creativity",
+    "question": "Remote Association: What single word links these three: 'Cottage', 'Swiss', 'Cake'?",
+    "options": ["House", "Chocolate", "Cheese", "Mountain"],
+    "correct_answer": "Cheese"
+  },
+  {
+    "id": 82,
+    "dimension": "Creativity",
+    "question": "Remote Association: What single word links these three: 'Falling', 'Actor', 'Dust'?",
+    "options": ["Movie", "Star", "Stage", "Sky"],
+    "correct_answer": "Star"
+  },
+  {
+    "id": 83,
+    "dimension": "Creativity",
+    "question": "If humans suddenly no longer needed to sleep at all, which industry would inherently suffer the most immediate collapse?",
+    "options": ["Coffee shops", "Mattress manufacturing", "Late-night television", "The restaurant industry"],
+    "correct_answer": "Mattress manufacturing"
+  },
+  {
+    "id": 84,
+    "dimension": "Creativity",
+    "question": "Which of these words is a creative 'portmanteau' (a blend of two distinct words)?",
+    "options": ["Unbelievable", "Brunch", "Happiness", "Keyboard"],
+    "correct_answer": "Brunch"
+  },
+  {
+    "id": 85,
+    "dimension": "Creativity",
+    "question": "Remote Association: What single word links these three: 'Light', 'Village', 'Golf'?",
+    "options": ["Club", "Green", "House", "Cart"],
+    "correct_answer": "Green"
+  },
+  {
+    "id": 86,
+    "dimension": "Creativity",
+    "question": "Which idea represents a 'divergent' approach to fixing a broken wooden table leg?",
+    "options": ["Gluing the broken pieces back together carefully", "Replacing it with an identical wooden leg from the store", "Replacing the leg with a tight stack of old hardcover books", "Nailing the pieces back together"],
+    "correct_answer": "Replacing the leg with a tight stack of old hardcover books"
+  },
+  {
+    "id": 87,
+    "dimension": "Creativity",
+    "question": "Remote Association: What single word links these three: 'Water', 'Mine', 'Rush'?",
+    "options": ["Gold", "Deep", "Coal", "Flow"],
+    "correct_answer": "Gold"
+  },
+  {
+    "id": 88,
+    "dimension": "Creativity",
+    "question": "Which task inherently requires more 'divergent thinking' (generating many unique solutions)?",
+    "options": ["Solving a 100-piece jigsaw puzzle", "Calculating 24 x 18", "Brainstorming 20 alternative uses for a paperclip", "Memorizing a short poem"],
+    "correct_answer": "Brainstorming 20 alternative uses for a paperclip"
+  },
+  {
+    "id": 89,
+    "dimension": "Creativity",
+    "question": "If gravity was briefly reversed for 30 seconds while you were indoors, what is the most creative immediate solution to stay safe?",
+    "options": ["Try to hold onto the smooth hardwood floor", "Grab onto a heavy appliance that is bolted to the wall/floor", "Jump up toward the ceiling", "Run outside as fast as possible"],
+    "correct_answer": "Grab onto a heavy appliance that is bolted to the wall/floor"
+  },
+  {
+    "id": 90,
+    "dimension": "Creativity",
+    "question": "An anagram for the word 'SILENT' that creatively reveals an action related to silence is:",
+    "options": ["INLETS", "TINSEL", "LISTEN", "ENLIST"],
+    "correct_answer": "LISTEN"
+  }
+]

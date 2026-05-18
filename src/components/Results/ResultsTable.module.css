@@ -1,0 +1,103 @@
+.tableWrap {
+  overflow-x: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.75rem 1.25rem;
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.table td {
+  padding: 0.875rem 1.25rem;
+  border-bottom: 1px solid var(--color-border);
+  font-size: 0.9375rem;
+}
+
+.table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.table tbody tr:hover {
+  background: var(--color-gray-light);
+}
+
+.dimName {
+  font-weight: 600;
+  color: var(--color-text);
+  white-space: nowrap;
+}
+
+.scoreRow {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+}
+
+.scoreNum {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  color: var(--color-primary);
+  min-width: 2rem;
+  text-align: right;
+}
+
+.scoreBar {
+  flex: 1;
+  height: 6px;
+  background: var(--color-gray-medium);
+  border-radius: var(--border-radius-full);
+  overflow: hidden;
+  min-width: 4rem;
+}
+
+.scoreBarFill {
+  height: 100%;
+  background: linear-gradient(90deg, #4f46e5, #818cf8);
+  border-radius: var(--border-radius-full);
+  transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--border-radius-full);
+  font-size: 0.75rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.badgeExceptional {
+  background: #ede9fe;
+  color: #5b21b6;
+}
+
+.badgeAboveAverage {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+
+.badgeAverage {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.badgeBelowAverage {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.badgeNeedsImprovement {
+  background: #fee2e2;
+  color: #991b1b;
+}

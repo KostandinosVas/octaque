@@ -1,0 +1,5388 @@
+[
+  {
+    "id": "lr-001",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If all humans are mortal and Socrates is a human, then:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Socrates is mortal."
+      },
+      {
+        "id": "B",
+        "text": "Socrates is not mortal."
+      },
+      {
+        "id": "C",
+        "text": "Only some humans are mortal."
+      },
+      {
+        "id": "D",
+        "text": "We cannot know."
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": "Syllogism: All humans are mortal + Socrates is a human → Socrates is mortal."
+  },
+  {
+    "id": "lr-002",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "What number comes next in the sequence: 2, 4, 8, 16, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "64"
+      },
+      {
+        "id": "D",
+        "text": "128"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Each number is multiplied by 2: 16×2=32."
+  },
+  {
+    "id": "lr-003",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If A = 1, B = 2, C = 3, ... what is the number for 'E'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "E is the 5th letter of the alphabet."
+  },
+  {
+    "id": "lr-004",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "Which word does not belong: DOG, CAT, BIRD, CAR?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DOG"
+      },
+      {
+        "id": "B",
+        "text": "CAT"
+      },
+      {
+        "id": "C",
+        "text": "BIRD"
+      },
+      {
+        "id": "D",
+        "text": "CAR"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": "CAR is not an animal."
+  },
+  {
+    "id": "lr-005",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If Mary is taller than John and John is taller than Kostas, then:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mary is taller than Kostas."
+      },
+      {
+        "id": "B",
+        "text": "Kostas is taller than Mary."
+      },
+      {
+        "id": "C",
+        "text": "We cannot compare Mary and Kostas."
+      },
+      {
+        "id": "D",
+        "text": "John is the shortest."
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": "Mary > John > Kostas → Mary > Kostas."
+  },
+  {
+    "id": "lr-006",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "Which shape continues the sequence: △, □, △, □, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "△"
+      },
+      {
+        "id": "B",
+        "text": "□"
+      },
+      {
+        "id": "C",
+        "text": "○"
+      },
+      {
+        "id": "D",
+        "text": "◇"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": "Alternation between △ and □."
+  },
+  {
+    "id": "lr-007",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If 'YES' means 'NO' and 'NO' means 'YES', then what does 'YES' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "YES"
+      },
+      {
+        "id": "B",
+        "text": "NO"
+      },
+      {
+        "id": "C",
+        "text": "Maybe"
+      },
+      {
+        "id": "D",
+        "text": "Uncertain"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Reversal of meanings: YES = NO."
+  },
+  {
+    "id": "lr-008",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "What number is missing: 5, 10, 20, 40, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "60"
+      },
+      {
+        "id": "B",
+        "text": "80"
+      },
+      {
+        "id": "C",
+        "text": "100"
+      },
+      {
+        "id": "D",
+        "text": "160"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Each number is multiplied by 2: 40×2=80."
+  },
+  {
+    "id": "lr-009",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If all flowers are beautiful and some beautiful things are red, then:",
+    "options": [
+      {
+        "id": "A",
+        "text": "All flowers are red."
+      },
+      {
+        "id": "B",
+        "text": "Some flowers are red."
+      },
+      {
+        "id": "C",
+        "text": "No flowers are red."
+      },
+      {
+        "id": "D",
+        "text": "We cannot know."
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": "We only know some beautiful things are red — we cannot conclude any flowers are necessarily red."
+  },
+  {
+    "id": "lr-010",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "Which word is the odd one out: BOOK, NEWSPAPER, MAGAZINE, THEATER?",
+    "options": [
+      {
+        "id": "A",
+        "text": "BOOK"
+      },
+      {
+        "id": "B",
+        "text": "NEWSPAPER"
+      },
+      {
+        "id": "C",
+        "text": "MAGAZINE"
+      },
+      {
+        "id": "D",
+        "text": "THEATER"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": "Theater is not a printed medium."
+  },
+  {
+    "id": "lr-011",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If A = 1, B = 2, C = 3, ..., then what is the number for 'E'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "E is the 5th letter of the alphabet."
+  },
+  {
+    "id": "lr-012",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If all birds have feathers and a penguin is a bird, then:",
+    "options": [
+      {
+        "id": "A",
+        "text": "The penguin has feathers."
+      },
+      {
+        "id": "B",
+        "text": "The penguin does not have feathers."
+      },
+      {
+        "id": "C",
+        "text": "Only some birds have feathers."
+      },
+      {
+        "id": "D",
+        "text": "We cannot know."
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": "Syllogism: All birds have feathers + penguin is a bird → penguin has feathers."
+  },
+  {
+    "id": "lr-013",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "What number comes next in the sequence: 3, 6, 12, 24, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "36"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "72"
+      },
+      {
+        "id": "D",
+        "text": "96"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Each number is multiplied by 2: 3×2=6, 6×2=12, 12×2=24, 24×2=48."
+  },
+  {
+    "id": "lr-014",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "Which number comes next in the sequence: 2, 6, 12, 20, 30, ...?",
+    "options": [
+      {
+        "id": "A",
+        "text": "40"
+      },
+      {
+        "id": "B",
+        "text": "42"
+      },
+      {
+        "id": "C",
+        "text": "44"
+      },
+      {
+        "id": "D",
+        "text": "48"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-015",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If all roses are flowers, and some flowers fade quickly, does it mean some roses fade quickly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes"
+      },
+      {
+        "id": "B",
+        "text": "No"
+      },
+      {
+        "id": "C",
+        "text": "Cannot be determined"
+      },
+      {
+        "id": "D",
+        "text": "Only red roses"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-016",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "Odometer is to mileage as compass is to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Speed"
+      },
+      {
+        "id": "B",
+        "text": "Hiking"
+      },
+      {
+        "id": "C",
+        "text": "Needle"
+      },
+      {
+        "id": "D",
+        "text": "Direction"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-017",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "The day before yesterday was Thursday. What day will it be tomorrow?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sunday"
+      },
+      {
+        "id": "B",
+        "text": "Monday"
+      },
+      {
+        "id": "C",
+        "text": "Saturday"
+      },
+      {
+        "id": "D",
+        "text": "Tuesday"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-018",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "Find the odd one out.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Guitar"
+      },
+      {
+        "id": "B",
+        "text": "Violin"
+      },
+      {
+        "id": "C",
+        "text": "Flute"
+      },
+      {
+        "id": "D",
+        "text": "Cello"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-019",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If A is taller than B, and B is taller than C, which statement is definitely true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C is taller than A"
+      },
+      {
+        "id": "B",
+        "text": "A is the tallest"
+      },
+      {
+        "id": "C",
+        "text": "B is the shortest"
+      },
+      {
+        "id": "D",
+        "text": "A and C are the same height"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-020",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "Which letter comes next in the series: B, D, G, K, ...?",
+    "options": [
+      {
+        "id": "A",
+        "text": "N"
+      },
+      {
+        "id": "B",
+        "text": "O"
+      },
+      {
+        "id": "C",
+        "text": "P"
+      },
+      {
+        "id": "D",
+        "text": "Q"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-021",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "A is the mother of B. B is the sister of C. C is the father of D. How is A related to D?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Aunt"
+      },
+      {
+        "id": "C",
+        "text": "Grandmother"
+      },
+      {
+        "id": "D",
+        "text": "Sister"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-022",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If you rearrange the letters 'CIFAIPC', you would have the name of an:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Animal"
+      },
+      {
+        "id": "B",
+        "text": "Ocean"
+      },
+      {
+        "id": "C",
+        "text": "Country"
+      },
+      {
+        "id": "D",
+        "text": "City"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-023",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "Some months have 30 days, some have 31. How many have 28?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "Depends on leap year"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-024",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "If 'APPLE' is coded as 'BQQMF', how is 'DOG' coded?",
+    "options": [
+      {
+        "id": "A",
+        "text": "EPH"
+      },
+      {
+        "id": "B",
+        "text": "FPI"
+      },
+      {
+        "id": "C",
+        "text": "CPG"
+      },
+      {
+        "id": "D",
+        "text": "EQH"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "lr-025",
+    "dimension": "logical-reasoning",
+    "dimensionName": "Logical Reasoning",
+    "text": "Which word does not belong with the others?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Circle"
+      },
+      {
+        "id": "B",
+        "text": "Triangle"
+      },
+      {
+        "id": "C",
+        "text": "Sphere"
+      },
+      {
+        "id": "D",
+        "text": "Square"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-001",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 15 × 8?",
+    "options": [
+      {
+        "id": "A",
+        "text": "100"
+      },
+      {
+        "id": "B",
+        "text": "110"
+      },
+      {
+        "id": "C",
+        "text": "120"
+      },
+      {
+        "id": "D",
+        "text": "130"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "15 × 8 = 120."
+  },
+  {
+    "id": "na-002",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 24 ÷ 6?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "6"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "24 ÷ 6 = 4."
+  },
+  {
+    "id": "na-003",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 7²?",
+    "options": [
+      {
+        "id": "A",
+        "text": "14"
+      },
+      {
+        "id": "B",
+        "text": "21"
+      },
+      {
+        "id": "C",
+        "text": "49"
+      },
+      {
+        "id": "D",
+        "text": "64"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "7² = 7 × 7 = 49."
+  },
+  {
+    "id": "na-004",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 10% of 200?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "50"
+      },
+      {
+        "id": "D",
+        "text": "100"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "10% of 200 = 0.10 × 200 = 20."
+  },
+  {
+    "id": "na-005",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 3/4 of 80?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "40"
+      },
+      {
+        "id": "C",
+        "text": "60"
+      },
+      {
+        "id": "D",
+        "text": "80"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "3/4 × 80 = 60."
+  },
+  {
+    "id": "na-006",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "A product costs $50 with a 20% discount. What is the final price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$30"
+      },
+      {
+        "id": "B",
+        "text": "$40"
+      },
+      {
+        "id": "C",
+        "text": "$45"
+      },
+      {
+        "id": "D",
+        "text": "$50"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "20% of $50 = $10 → $50 - $10 = $40."
+  },
+  {
+    "id": "na-007",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 5! (factorial of 5)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25"
+      },
+      {
+        "id": "B",
+        "text": "60"
+      },
+      {
+        "id": "C",
+        "text": "120"
+      },
+      {
+        "id": "D",
+        "text": "150"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+  },
+  {
+    "id": "na-008",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "If 3 workers build a house in 12 days, how many days for 6 workers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "Doubling the workers halves the time: 12 ÷ 2 = 6 days."
+  },
+  {
+    "id": "na-009",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is √144?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "12 × 12 = 144 → √144 = 12."
+  },
+  {
+    "id": "na-010",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 15 + 25 × 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "50"
+      },
+      {
+        "id": "B",
+        "text": "65"
+      },
+      {
+        "id": "C",
+        "text": "80"
+      },
+      {
+        "id": "D",
+        "text": "100"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Multiplication first: 25 × 2 = 50, then 15 + 50 = 65."
+  },
+  {
+    "id": "na-011",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "If a product costs $50 and has a 20% discount, what is the final price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$30"
+      },
+      {
+        "id": "B",
+        "text": "$40"
+      },
+      {
+        "id": "C",
+        "text": "$45"
+      },
+      {
+        "id": "D",
+        "text": "$50"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "20% of $50 = $10 → $50 - $10 = $40."
+  },
+  {
+    "id": "na-012",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "If 3 workers build a house in 12 days, how many days will it take for 6 workers?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "Doubling the workers → half the time: 12 ÷ 2 = 6 days."
+  },
+  {
+    "id": "na-013",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 3^3?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "9"
+      },
+      {
+        "id": "C",
+        "text": "27"
+      },
+      {
+        "id": "D",
+        "text": "81"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "3^3 = 3 × 3 × 3 = 27."
+  },
+  {
+    "id": "na-014",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 15% of 200?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "30"
+      },
+      {
+        "id": "C",
+        "text": "40"
+      },
+      {
+        "id": "D",
+        "text": "50"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "15% of 200 = 0.15 × 200 = 30."
+  },
+  {
+    "id": "na-015",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "Solve the equation: 8 + 4 × 2 - 3 =",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "13"
+      },
+      {
+        "id": "C",
+        "text": "11"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-016",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "If 5 apples cost $2.00, how much do 15 apples cost?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$4.00"
+      },
+      {
+        "id": "B",
+        "text": "$5.00"
+      },
+      {
+        "id": "C",
+        "text": "$6.00"
+      },
+      {
+        "id": "D",
+        "text": "$10.00"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-017",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is the square root of 144?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-018",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "A train travels at 60 mph for 2.5 hours. How far does it travel?",
+    "options": [
+      {
+        "id": "A",
+        "text": "120 miles"
+      },
+      {
+        "id": "B",
+        "text": "140 miles"
+      },
+      {
+        "id": "C",
+        "text": "150 miles"
+      },
+      {
+        "id": "D",
+        "text": "180 miles"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-019",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is the next prime number after 11?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "13"
+      },
+      {
+        "id": "C",
+        "text": "15"
+      },
+      {
+        "id": "D",
+        "text": "17"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-020",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "Convert the fraction 3/4 to a decimal.",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.34"
+      },
+      {
+        "id": "B",
+        "text": "0.50"
+      },
+      {
+        "id": "C",
+        "text": "0.75"
+      },
+      {
+        "id": "D",
+        "text": "0.80"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-021",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "Solve for x: 3x - 5 = 16",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "7"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-022",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "A shirt is originally $40 but is on sale for 25% off. What is the sale price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$10"
+      },
+      {
+        "id": "B",
+        "text": "$25"
+      },
+      {
+        "id": "C",
+        "text": "$30"
+      },
+      {
+        "id": "D",
+        "text": "$35"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-023",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is 5 cubed (5^3)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "15"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "125"
+      },
+      {
+        "id": "D",
+        "text": "225"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-024",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "If you buy 3 books for $12 each and give the cashier a $50 bill, what is your change?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$12"
+      },
+      {
+        "id": "B",
+        "text": "$14"
+      },
+      {
+        "id": "C",
+        "text": "$24"
+      },
+      {
+        "id": "D",
+        "text": "$38"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "na-025",
+    "dimension": "numerical-ability",
+    "dimensionName": "Numerical Ability",
+    "text": "What is the average of the numbers 4, 8, 10, and 18?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "10"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-001",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "What is the opposite of 'fast'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Slow"
+      },
+      {
+        "id": "B",
+        "text": "Quick"
+      },
+      {
+        "id": "C",
+        "text": "Strong"
+      },
+      {
+        "id": "D",
+        "text": "Smart"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": "Opposite of 'fast' is 'slow'."
+  },
+  {
+    "id": "vi-002",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "What is a synonym for 'happiness'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sadness"
+      },
+      {
+        "id": "B",
+        "text": "Joy"
+      },
+      {
+        "id": "C",
+        "text": "Anger"
+      },
+      {
+        "id": "D",
+        "text": "Fear"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Synonym of 'happiness' is 'joy'."
+  },
+  {
+    "id": "vi-003",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Which word does not belong: CHAIR, TABLE, SOFA, LAMP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CHAIR"
+      },
+      {
+        "id": "B",
+        "text": "TABLE"
+      },
+      {
+        "id": "C",
+        "text": "SOFA"
+      },
+      {
+        "id": "D",
+        "text": "LAMP"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": "Lamp is not a piece of furniture you sit or place things on."
+  },
+  {
+    "id": "vi-004",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "What is the antonym of 'love'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hate"
+      },
+      {
+        "id": "B",
+        "text": "Friendship"
+      },
+      {
+        "id": "C",
+        "text": "Sympathy"
+      },
+      {
+        "id": "D",
+        "text": "Hostility"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": "Antonym of 'love' is 'hate'."
+  },
+  {
+    "id": "vi-005",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Which word is the odd one out: APPLE, STRAWBERRY, PEACH, CARROT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "APPLE"
+      },
+      {
+        "id": "B",
+        "text": "STRAWBERRY"
+      },
+      {
+        "id": "C",
+        "text": "PEACH"
+      },
+      {
+        "id": "D",
+        "text": "CARROT"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": "Carrot is a vegetable; the rest are fruits."
+  },
+  {
+    "id": "vi-006",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Complete the analogy: LION : ANIMAL :: ROSE : ...",
+    "options": [
+      {
+        "id": "A",
+        "text": "FLOWER"
+      },
+      {
+        "id": "B",
+        "text": "PLANT"
+      },
+      {
+        "id": "C",
+        "text": "TREE"
+      },
+      {
+        "id": "D",
+        "text": "SEA"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": "Lion is an animal, rose is a flower."
+  },
+  {
+    "id": "vi-007",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "What is a synonym for 'brave'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cowardly"
+      },
+      {
+        "id": "B",
+        "text": "Heroic"
+      },
+      {
+        "id": "C",
+        "text": "Scared"
+      },
+      {
+        "id": "D",
+        "text": "Decisive"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Synonym of 'brave' is 'heroic'."
+  },
+  {
+    "id": "vi-008",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Hot is to Cold as Day is to ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sun"
+      },
+      {
+        "id": "B",
+        "text": "Night"
+      },
+      {
+        "id": "C",
+        "text": "Moon"
+      },
+      {
+        "id": "D",
+        "text": "Dark"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Hot and Cold are opposites. Day and Night are opposites."
+  },
+  {
+    "id": "vi-009",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "What is a synonym for 'wonderful'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Terrible"
+      },
+      {
+        "id": "B",
+        "text": "Excellent"
+      },
+      {
+        "id": "C",
+        "text": "Ugly"
+      },
+      {
+        "id": "D",
+        "text": "Average"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Synonym of 'wonderful' is 'excellent'."
+  },
+  {
+    "id": "vi-010",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Which word does NOT belong: BOOK, NEWSPAPER, MAGAZINE, RADIO?",
+    "options": [
+      {
+        "id": "A",
+        "text": "BOOK"
+      },
+      {
+        "id": "B",
+        "text": "NEWSPAPER"
+      },
+      {
+        "id": "C",
+        "text": "MAGAZINE"
+      },
+      {
+        "id": "D",
+        "text": "RADIO"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": "Radio is an audio medium; the rest are printed."
+  },
+  {
+    "id": "vi-011",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Complete the sentence: 'The weather today is ...'",
+    "options": [
+      {
+        "id": "A",
+        "text": "Good"
+      },
+      {
+        "id": "B",
+        "text": "Beautiful"
+      },
+      {
+        "id": "C",
+        "text": "Sunny"
+      },
+      {
+        "id": "D",
+        "text": "Rainy"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "The most appropriate word for the weather is 'sunny'."
+  },
+  {
+    "id": "vi-012",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Which of the following words is spelled correctly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Necessary"
+      },
+      {
+        "id": "B",
+        "text": "Neccessary"
+      },
+      {
+        "id": "C",
+        "text": "Necesary"
+      },
+      {
+        "id": "D",
+        "text": "Necessery"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": "'Necessary' — one 'c', two 's'. A common misspelling adds an extra 'c'."
+  },
+  {
+    "id": "vi-013",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Which of the following words is spelled correctly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Accomodate"
+      },
+      {
+        "id": "B",
+        "text": "Accommodate"
+      },
+      {
+        "id": "C",
+        "text": "Acommodate"
+      },
+      {
+        "id": "D",
+        "text": "Acomodate"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "'Accommodate' has two 'c' letters and two 'm' letters."
+  },
+  {
+    "id": "vi-014",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Which word is a synonym for 'Abundant'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scarce"
+      },
+      {
+        "id": "B",
+        "text": "Plentiful"
+      },
+      {
+        "id": "C",
+        "text": "Empty"
+      },
+      {
+        "id": "D",
+        "text": "Brief"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-015",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Which word is an antonym for 'Benevolent'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kind"
+      },
+      {
+        "id": "B",
+        "text": "Cruel"
+      },
+      {
+        "id": "C",
+        "text": "Smart"
+      },
+      {
+        "id": "D",
+        "text": "Wealthy"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-016",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Identify the correctly spelled word.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Accommodate"
+      },
+      {
+        "id": "B",
+        "text": "Acommodate"
+      },
+      {
+        "id": "C",
+        "text": "Accomodate"
+      },
+      {
+        "id": "D",
+        "text": "Acomodate"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-017",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Tree is to Forest as Star is to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Night"
+      },
+      {
+        "id": "B",
+        "text": "Space"
+      },
+      {
+        "id": "C",
+        "text": "Galaxy"
+      },
+      {
+        "id": "D",
+        "text": "Sun"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-018",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "What does the word 'Ephemeral' mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Glowing"
+      },
+      {
+        "id": "B",
+        "text": "Short-lived"
+      },
+      {
+        "id": "C",
+        "text": "Ancient"
+      },
+      {
+        "id": "D",
+        "text": "Complicated"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-019",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "In the sentence 'The swift fox jumped', what part of speech is 'swift'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Noun"
+      },
+      {
+        "id": "B",
+        "text": "Verb"
+      },
+      {
+        "id": "C",
+        "text": "Adjective"
+      },
+      {
+        "id": "D",
+        "text": "Adverb"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-020",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Which of these words means 'to alleviate or lessen'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aggravate"
+      },
+      {
+        "id": "B",
+        "text": "Mitigate"
+      },
+      {
+        "id": "C",
+        "text": "Instigate"
+      },
+      {
+        "id": "D",
+        "text": "Replicate"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-021",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "What is the plural of 'Criterion'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Criterions"
+      },
+      {
+        "id": "B",
+        "text": "Criteria"
+      },
+      {
+        "id": "C",
+        "text": "Criterias"
+      },
+      {
+        "id": "D",
+        "text": "Criterion"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-022",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "If someone says it's 'raining cats and dogs', they are using an:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oxymoron"
+      },
+      {
+        "id": "B",
+        "text": "Idiom"
+      },
+      {
+        "id": "C",
+        "text": "Alliteration"
+      },
+      {
+        "id": "D",
+        "text": "Onomatopoeia"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-023",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Choose the correct homophone to complete the sentence: 'She went __ the store.'",
+    "options": [
+      {
+        "id": "A",
+        "text": "To"
+      },
+      {
+        "id": "B",
+        "text": "Too"
+      },
+      {
+        "id": "C",
+        "text": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Tew"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "vi-024",
+    "dimension": "verbal-intelligence",
+    "dimensionName": "Verbal Intelligence",
+    "text": "Which word is the odd one out based on meaning?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ecstatic"
+      },
+      {
+        "id": "B",
+        "text": "Jubilant"
+      },
+      {
+        "id": "C",
+        "text": "Melancholy"
+      },
+      {
+        "id": "D",
+        "text": "Elated"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-001",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "Which shape is the odd one out: △, □, ○, △?",
+    "options": [
+      {
+        "id": "A",
+        "text": "△"
+      },
+      {
+        "id": "B",
+        "text": "□"
+      },
+      {
+        "id": "C",
+        "text": "○"
+      },
+      {
+        "id": "D",
+        "text": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "○ is a circle — the only shape without straight lines or corners."
+  },
+  {
+    "id": "si-002",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "If a square has a side of 4 cm, what is its area?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 cm²"
+      },
+      {
+        "id": "B",
+        "text": "12 cm²"
+      },
+      {
+        "id": "C",
+        "text": "16 cm²"
+      },
+      {
+        "id": "D",
+        "text": "20 cm²"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "Area = side² = 4² = 16 cm²."
+  },
+  {
+    "id": "si-003",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "Which shape has the most angles: △, □, ▽, ○?",
+    "options": [
+      {
+        "id": "A",
+        "text": "△"
+      },
+      {
+        "id": "B",
+        "text": "□"
+      },
+      {
+        "id": "C",
+        "text": "▽"
+      },
+      {
+        "id": "D",
+        "text": "○"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "The square (□) has 4 angles; triangles have 3; the circle has none."
+  },
+  {
+    "id": "si-004",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "If a rectangle has a length of 5 cm and width of 3 cm, what is its perimeter?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 cm"
+      },
+      {
+        "id": "B",
+        "text": "14 cm"
+      },
+      {
+        "id": "C",
+        "text": "16 cm"
+      },
+      {
+        "id": "D",
+        "text": "18 cm"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "Perimeter = 2 × (5 + 3) = 16 cm."
+  },
+  {
+    "id": "si-005",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "How many angles does a hexagon have?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "A hexagon has 6 sides and 6 angles."
+  },
+  {
+    "id": "si-006",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "Which shape has no angles: △, □, ○, ▽?",
+    "options": [
+      {
+        "id": "A",
+        "text": "△"
+      },
+      {
+        "id": "B",
+        "text": "□"
+      },
+      {
+        "id": "C",
+        "text": "○"
+      },
+      {
+        "id": "D",
+        "text": "▽"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "The circle (○) has no angles."
+  },
+  {
+    "id": "si-007",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "If a triangle has a base of 6 cm and a height of 4 cm, what is its area?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12 cm²"
+      },
+      {
+        "id": "B",
+        "text": "15 cm²"
+      },
+      {
+        "id": "C",
+        "text": "24 cm²"
+      },
+      {
+        "id": "D",
+        "text": "36 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": "Area = (base × height) / 2 = (6 × 4) / 2 = 12 cm²."
+  },
+  {
+    "id": "si-008",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "Which shape is the odd one out: △, □, ○, ◇?",
+    "options": [
+      {
+        "id": "A",
+        "text": "△"
+      },
+      {
+        "id": "B",
+        "text": "□"
+      },
+      {
+        "id": "C",
+        "text": "○"
+      },
+      {
+        "id": "D",
+        "text": "◇"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "The circle (○) is the only shape without straight lines."
+  },
+  {
+    "id": "si-009",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "How many sides does a pentagon have?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "A pentagon has 5 sides."
+  },
+  {
+    "id": "si-010",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "How many faces does a cube have?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "A cube has 6 faces."
+  },
+  {
+    "id": "si-011",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "Which shape is symmetrical: △, □, ▽, ○?",
+    "options": [
+      {
+        "id": "A",
+        "text": "△"
+      },
+      {
+        "id": "B",
+        "text": "□"
+      },
+      {
+        "id": "C",
+        "text": "▽"
+      },
+      {
+        "id": "D",
+        "text": "○"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": "The circle (○) has infinite axes of symmetry."
+  },
+  {
+    "id": "si-012",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "If a rectangle has a length of 5 cm and a width of 3 cm, what is its perimeter?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 cm"
+      },
+      {
+        "id": "B",
+        "text": "14 cm"
+      },
+      {
+        "id": "C",
+        "text": "16 cm"
+      },
+      {
+        "id": "D",
+        "text": "18 cm"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (5 + 3) = 16 cm."
+  },
+  {
+    "id": "si-013",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "Which shape is the odd one out: △, □, ▽, ◇?",
+    "options": [
+      {
+        "id": "A",
+        "text": "△"
+      },
+      {
+        "id": "B",
+        "text": "□"
+      },
+      {
+        "id": "C",
+        "text": "▽"
+      },
+      {
+        "id": "D",
+        "text": "◇"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "▽ (inverted triangle) is the only one not a regular polygon with the point upward."
+  },
+  {
+    "id": "si-014",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "If you are facing North, turn 90 degrees clockwise, then 180 degrees counter-clockwise, what direction are you facing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "North"
+      },
+      {
+        "id": "B",
+        "text": "South"
+      },
+      {
+        "id": "C",
+        "text": "East"
+      },
+      {
+        "id": "D",
+        "text": "West"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-015",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "How many edges does a standard cube have?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-016",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "A piece of paper is folded in half twice, and a single hole is punched through all layers. How many holes are there when unfolded?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-017",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "Imagine the lowercase letter 'b'. If you rotate it 180 degrees clockwise, what letter does it look like?",
+    "options": [
+      {
+        "id": "A",
+        "text": "p"
+      },
+      {
+        "id": "B",
+        "text": "q"
+      },
+      {
+        "id": "C",
+        "text": "d"
+      },
+      {
+        "id": "D",
+        "text": "b"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-018",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "If you cut a solid cylinder exactly down the middle vertically, what 2D shape are the new flat internal faces?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Circles"
+      },
+      {
+        "id": "B",
+        "text": "Squares"
+      },
+      {
+        "id": "C",
+        "text": "Rectangles"
+      },
+      {
+        "id": "D",
+        "text": "Triangles"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-019",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "You walk 3 miles straight North, then turn exactly East and walk 4 miles. How far are you from your starting point in a straight line?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 miles"
+      },
+      {
+        "id": "B",
+        "text": "7 miles"
+      },
+      {
+        "id": "C",
+        "text": "12 miles"
+      },
+      {
+        "id": "D",
+        "text": "1 mile"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-020",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "Imagine a square. If you draw a straight line from the top-left corner to the bottom-right corner, what two shapes are formed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two rectangles"
+      },
+      {
+        "id": "B",
+        "text": "Two right triangles"
+      },
+      {
+        "id": "C",
+        "text": "Two acute triangles"
+      },
+      {
+        "id": "D",
+        "text": "Two rhombuses"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-021",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "If a 3D shape has exactly one flat circular base and one continuous curved surface ending in a point, what is it?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cylinder"
+      },
+      {
+        "id": "B",
+        "text": "Sphere"
+      },
+      {
+        "id": "C",
+        "text": "Pyramid"
+      },
+      {
+        "id": "D",
+        "text": "Cone"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-022",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "If you overlap a transparent yellow square entirely over a transparent blue square, what color is the overlapped area?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Green"
+      },
+      {
+        "id": "B",
+        "text": "Purple"
+      },
+      {
+        "id": "C",
+        "text": "Orange"
+      },
+      {
+        "id": "D",
+        "text": "Brown"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-023",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "If you turn a right-hand glove completely inside out, which hand will it now fit properly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Right hand"
+      },
+      {
+        "id": "B",
+        "text": "Left hand"
+      },
+      {
+        "id": "C",
+        "text": "Neither"
+      },
+      {
+        "id": "D",
+        "text": "Both"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "si-024",
+    "dimension": "spatial-intelligence",
+    "dimensionName": "Spatial Intelligence",
+    "text": "Look at the word 'MOM'. If you flip it horizontally (like looking in a mirror), how does it change?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It becomes 'WOW'"
+      },
+      {
+        "id": "B",
+        "text": "It looks exactly the same"
+      },
+      {
+        "id": "C",
+        "text": "The M's face backwards"
+      },
+      {
+        "id": "D",
+        "text": "It becomes 'OOM'"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "m-011",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which word is missing from this partial sequence: DOG, HOUSE, BOOK?",
+    "options": [
+      {
+        "id": "A",
+        "text": "DOG"
+      },
+      {
+        "id": "B",
+        "text": "HOUSE"
+      },
+      {
+        "id": "C",
+        "text": "CAR"
+      },
+      {
+        "id": "D",
+        "text": "BOOK"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 20,
+    "explanation": "The missing word from the original list is 'CAR'.",
+    "memorize": "DOG, HOUSE, CAR, BOOK"
+  },
+  {
+    "id": "m-012",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which number is missing from this partial sequence: 3, 2, 9?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "7"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 20,
+    "explanation": "The missing number is '7'.",
+    "memorize": "3, 7, 2, 9"
+  },
+  {
+    "id": "m-013",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which word is missing from this partial sequence: CAT, CHICKEN, DOG?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CAT"
+      },
+      {
+        "id": "B",
+        "text": "MOUSE"
+      },
+      {
+        "id": "C",
+        "text": "CHICKEN"
+      },
+      {
+        "id": "D",
+        "text": "DOG"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": "The missing word is 'MOUSE'.",
+    "memorize": "CAT, MOUSE, CHICKEN, DOG"
+  },
+  {
+    "id": "m-014",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which number is missing from this partial sequence: 12, 78, 23?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "23"
+      },
+      {
+        "id": "C",
+        "text": "45"
+      },
+      {
+        "id": "D",
+        "text": "78"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 20,
+    "explanation": "The missing number is '45'.",
+    "memorize": "12, 45, 78, 23"
+  },
+  {
+    "id": "m-015",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which word is missing from this partial sequence: FLOWER, SEA, MOUNTAIN?",
+    "options": [
+      {
+        "id": "A",
+        "text": "FLOWER"
+      },
+      {
+        "id": "B",
+        "text": "TREE"
+      },
+      {
+        "id": "C",
+        "text": "SEA"
+      },
+      {
+        "id": "D",
+        "text": "MOUNTAIN"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": "The missing word is 'TREE'.",
+    "memorize": "FLOWER, TREE, SEA, MOUNTAIN"
+  },
+  {
+    "id": "m-016",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which number is missing from this partial sequence: 5, 15, 20?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "10"
+      },
+      {
+        "id": "C",
+        "text": "15"
+      },
+      {
+        "id": "D",
+        "text": "20"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": "The missing number is '10'.",
+    "memorize": "5, 10, 15, 20"
+  },
+  {
+    "id": "m-017",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which word is missing from this partial sequence: SUN, STAR, PLANET?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SUN"
+      },
+      {
+        "id": "B",
+        "text": "MOON"
+      },
+      {
+        "id": "C",
+        "text": "STAR"
+      },
+      {
+        "id": "D",
+        "text": "PLANET"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": "The missing word is 'MOON'.",
+    "memorize": "SUN, MOON, STAR, PLANET"
+  },
+  {
+    "id": "m-018",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which number is missing from this partial sequence: 100, 300, 400?",
+    "options": [
+      {
+        "id": "A",
+        "text": "100"
+      },
+      {
+        "id": "B",
+        "text": "200"
+      },
+      {
+        "id": "C",
+        "text": "300"
+      },
+      {
+        "id": "D",
+        "text": "400"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": "The missing number is '200'.",
+    "memorize": "100, 200, 300, 400"
+  },
+  {
+    "id": "m-019",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which word is missing from this partial sequence: WATER, AIR, EARTH?",
+    "options": [
+      {
+        "id": "A",
+        "text": "WATER"
+      },
+      {
+        "id": "B",
+        "text": "FIRE"
+      },
+      {
+        "id": "C",
+        "text": "AIR"
+      },
+      {
+        "id": "D",
+        "text": "EARTH"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": "The missing word is 'FIRE'.",
+    "memorize": "WATER, FIRE, AIR, EARTH"
+  },
+  {
+    "id": "m-020",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which number is missing from this partial sequence: 7, 21, 28?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "28"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": "The missing number is '14'.",
+    "memorize": "7, 14, 21, 28"
+  },
+  {
+    "id": "m-021",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which word is missing from this partial sequence: MOUNTAIN, RIVER, LAKE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "MOUNTAIN"
+      },
+      {
+        "id": "B",
+        "text": "SEA"
+      },
+      {
+        "id": "C",
+        "text": "RIVER"
+      },
+      {
+        "id": "D",
+        "text": "LAKE"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": "The missing word is 'SEA'.",
+    "memorize": "MOUNTAIN, SEA, RIVER, LAKE"
+  },
+  {
+    "id": "m-022",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "General Knowledge: How many days are in a standard leap year?",
+    "options": [
+      {
+        "id": "A",
+        "text": "364"
+      },
+      {
+        "id": "B",
+        "text": "365"
+      },
+      {
+        "id": "C",
+        "text": "366"
+      },
+      {
+        "id": "D",
+        "text": "367"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 20,
+    "explanation": null
+  },
+  {
+    "id": "m-023",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "General Knowledge: What is the capital city of Australia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sydney"
+      },
+      {
+        "id": "B",
+        "text": "Melbourne"
+      },
+      {
+        "id": "C",
+        "text": "Canberra"
+      },
+      {
+        "id": "D",
+        "text": "Perth"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 20,
+    "explanation": null
+  },
+  {
+    "id": "m-024",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "Which item was third in the sequence you just memorized?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Apple"
+      },
+      {
+        "id": "B",
+        "text": "Book"
+      },
+      {
+        "id": "C",
+        "text": "Train"
+      },
+      {
+        "id": "D",
+        "text": "Cloud"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": 20,
+    "explanation": null,
+    "memorize": "APPLE, TRAIN, CLOUD, BOOK"
+  },
+  {
+    "id": "m-025",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "General Knowledge: In the popular color acronym ROYGBIV, what does the 'V' stand for?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Velvet"
+      },
+      {
+        "id": "B",
+        "text": "Violet"
+      },
+      {
+        "id": "C",
+        "text": "Vibrant"
+      },
+      {
+        "id": "D",
+        "text": "Vanilla"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": null
+  },
+  {
+    "id": "m-026",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "General Knowledge: Who is the author of the play 'Hamlet'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Charles Dickens"
+      },
+      {
+        "id": "B",
+        "text": "William Shakespeare"
+      },
+      {
+        "id": "C",
+        "text": "Mark Twain"
+      },
+      {
+        "id": "D",
+        "text": "Jane Austen"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": null
+  },
+  {
+    "id": "m-027",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "General Knowledge: What is the chemical symbol for Gold?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Go"
+      },
+      {
+        "id": "B",
+        "text": "Ag"
+      },
+      {
+        "id": "C",
+        "text": "Au"
+      },
+      {
+        "id": "D",
+        "text": "Gd"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 20,
+    "explanation": null
+  },
+  {
+    "id": "m-028",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "General Knowledge: In what year did the Titanic sink?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1905"
+      },
+      {
+        "id": "B",
+        "text": "1912"
+      },
+      {
+        "id": "C",
+        "text": "1920"
+      },
+      {
+        "id": "D",
+        "text": "1898"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": null
+  },
+  {
+    "id": "m-029",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "General Knowledge: Which is the largest ocean on Earth?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Atlantic"
+      },
+      {
+        "id": "B",
+        "text": "Indian"
+      },
+      {
+        "id": "C",
+        "text": "Arctic"
+      },
+      {
+        "id": "D",
+        "text": "Pacific"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": 20,
+    "explanation": null
+  },
+  {
+    "id": "m-030",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "General Knowledge: At what temperature Celsius does water normally freeze?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "100"
+      },
+      {
+        "id": "D",
+        "text": "50"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": 20,
+    "explanation": null
+  },
+  {
+    "id": "m-031",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "text": "General Knowledge: How many planets are officially recognized in our solar system?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "9"
+      },
+      {
+        "id": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 20,
+    "explanation": null
+  },
+  {
+    "id": "m-032",
+    "dimension": "memory",
+    "dimensionName": "Memory",
+    "memorize": "RED, BLUE, GREEN, YELLOW, PURPLE",
+    "text": "Which color was in the third position of the sequence you just memorized?",
+    "options": [
+      {
+        "id": "A",
+        "text": "RED"
+      },
+      {
+        "id": "B",
+        "text": "BLUE"
+      },
+      {
+        "id": "C",
+        "text": "GREEN"
+      },
+      {
+        "id": "D",
+        "text": "YELLOW"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 20,
+    "explanation": "RED (1st), BLUE (2nd), GREEN (3rd). The third color was GREEN."
+  },
+  {
+    "id": "ps-001",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "5 + 3 + 8 + 2 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "18"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "5+3=8, 8+8=16, 16+2=18."
+  },
+  {
+    "id": "ps-002",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Which number is greater: 45 or 39?",
+    "options": [
+      {
+        "id": "A",
+        "text": "39"
+      },
+      {
+        "id": "B",
+        "text": "45"
+      },
+      {
+        "id": "C",
+        "text": "Equal"
+      },
+      {
+        "id": "D",
+        "text": "Cannot tell"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "45 > 39."
+  },
+  {
+    "id": "ps-003",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "6 × 7 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "36"
+      },
+      {
+        "id": "B",
+        "text": "42"
+      },
+      {
+        "id": "C",
+        "text": "48"
+      },
+      {
+        "id": "D",
+        "text": "54"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "6 × 7 = 42."
+  },
+  {
+    "id": "ps-004",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "50 - 17 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "23"
+      },
+      {
+        "id": "B",
+        "text": "33"
+      },
+      {
+        "id": "C",
+        "text": "43"
+      },
+      {
+        "id": "D",
+        "text": "53"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "50 - 17 = 33."
+  },
+  {
+    "id": "ps-005",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "4 × 5 × 2 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "30"
+      },
+      {
+        "id": "C",
+        "text": "40"
+      },
+      {
+        "id": "D",
+        "text": "50"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 10,
+    "explanation": "4×5=20, 20×2=40."
+  },
+  {
+    "id": "ps-006",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Which number is smaller: 88 or 77?",
+    "options": [
+      {
+        "id": "A",
+        "text": "77"
+      },
+      {
+        "id": "B",
+        "text": "88"
+      },
+      {
+        "id": "C",
+        "text": "Equal"
+      },
+      {
+        "id": "D",
+        "text": "Cannot tell"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": 10,
+    "explanation": "77 < 88."
+  },
+  {
+    "id": "ps-007",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "60 ÷ 5 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "60 ÷ 5 = 12."
+  },
+  {
+    "id": "ps-008",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "12 + 18 + 5 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25"
+      },
+      {
+        "id": "B",
+        "text": "30"
+      },
+      {
+        "id": "C",
+        "text": "35"
+      },
+      {
+        "id": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 10,
+    "explanation": "12+18=30, 30+5=35."
+  },
+  {
+    "id": "ps-009",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "9 × 6 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "45"
+      },
+      {
+        "id": "B",
+        "text": "54"
+      },
+      {
+        "id": "C",
+        "text": "63"
+      },
+      {
+        "id": "D",
+        "text": "72"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "9 × 6 = 54."
+  },
+  {
+    "id": "ps-010",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "100 - 35 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "55"
+      },
+      {
+        "id": "B",
+        "text": "65"
+      },
+      {
+        "id": "C",
+        "text": "75"
+      },
+      {
+        "id": "D",
+        "text": "85"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "100 - 35 = 65."
+  },
+  {
+    "id": "ps-011",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "What is the sum: 5 + 3 + 8 + 2 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "18"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "5 + 3 = 8, 8 + 8 = 16, 16 + 2 = 18."
+  },
+  {
+    "id": "ps-012",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Multiply: 6 × 7 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "36"
+      },
+      {
+        "id": "B",
+        "text": "42"
+      },
+      {
+        "id": "C",
+        "text": "48"
+      },
+      {
+        "id": "D",
+        "text": "54"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "6 × 7 = 42."
+  },
+  {
+    "id": "ps-013",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Subtract: 50 - 17 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "23"
+      },
+      {
+        "id": "B",
+        "text": "33"
+      },
+      {
+        "id": "C",
+        "text": "43"
+      },
+      {
+        "id": "D",
+        "text": "53"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "50 - 17 = 33."
+  },
+  {
+    "id": "ps-014",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "What is the product: 4 × 5 × 2 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "30"
+      },
+      {
+        "id": "C",
+        "text": "40"
+      },
+      {
+        "id": "D",
+        "text": "50"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 10,
+    "explanation": "4 × 5 = 20, 20 × 2 = 40."
+  },
+  {
+    "id": "ps-015",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Divide: 60 ÷ 5 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "60 ÷ 5 = 12."
+  },
+  {
+    "id": "ps-016",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Add: 12 + 18 + 5 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25"
+      },
+      {
+        "id": "B",
+        "text": "30"
+      },
+      {
+        "id": "C",
+        "text": "35"
+      },
+      {
+        "id": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 10,
+    "explanation": "12 + 18 = 30, 30 + 5 = 35."
+  },
+  {
+    "id": "ps-017",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Which number is greater: 120 or 102?",
+    "options": [
+      {
+        "id": "A",
+        "text": "102"
+      },
+      {
+        "id": "B",
+        "text": "120"
+      },
+      {
+        "id": "C",
+        "text": "Equal"
+      },
+      {
+        "id": "D",
+        "text": "I don't know"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "120 > 102."
+  },
+  {
+    "id": "ps-018",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Subtract: 100 - 35 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "55"
+      },
+      {
+        "id": "B",
+        "text": "65"
+      },
+      {
+        "id": "C",
+        "text": "75"
+      },
+      {
+        "id": "D",
+        "text": "85"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "100 - 35 = 65."
+  },
+  {
+    "id": "ps-019",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Multiply: 9 × 6 = ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "45"
+      },
+      {
+        "id": "B",
+        "text": "54"
+      },
+      {
+        "id": "C",
+        "text": "63"
+      },
+      {
+        "id": "D",
+        "text": "72"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": "9 × 6 = 54."
+  },
+  {
+    "id": "ps-020",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Quick counting: How many vowels are in the word 'COGNITIVE'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "6"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-021",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "True or False: 50 is exactly half of 100.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Neither"
+      },
+      {
+        "id": "D",
+        "text": "Both"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-022",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Which word is longer by character count?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Elephant"
+      },
+      {
+        "id": "B",
+        "text": "Rhinoceros"
+      },
+      {
+        "id": "C",
+        "text": "Hippopotamus"
+      },
+      {
+        "id": "D",
+        "text": "Crocodile"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-023",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Does the letter 'M' appear anywhere in the word 'ALPHABET'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes"
+      },
+      {
+        "id": "B",
+        "text": "No"
+      },
+      {
+        "id": "C",
+        "text": "Maybe"
+      },
+      {
+        "id": "D",
+        "text": "Only in lowercase"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-024",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "How many months of the year have exactly 31 days?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "7"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-025",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Count the total number of 't's in this phrase: 'Little red tractor'",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-026",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Identify the highest number quickly: 45, 54, 44, 55, 49.",
+    "options": [
+      {
+        "id": "A",
+        "text": "45"
+      },
+      {
+        "id": "B",
+        "text": "54"
+      },
+      {
+        "id": "C",
+        "text": "55"
+      },
+      {
+        "id": "D",
+        "text": "49"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-027",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "True or False: A standard square has 5 sides.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      },
+      {
+        "id": "C",
+        "text": "Depends"
+      },
+      {
+        "id": "D",
+        "text": "Only in 3D"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-028",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "What is the 5th letter of the English alphabet?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D"
+      },
+      {
+        "id": "B",
+        "text": "E"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "G"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-029",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "Are the words 'Brake' and 'Break' pronounced the exact same way?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes"
+      },
+      {
+        "id": "B",
+        "text": "No"
+      },
+      {
+        "id": "C",
+        "text": "Only in British English"
+      },
+      {
+        "id": "D",
+        "text": "Only in American English"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ps-030",
+    "dimension": "processing-speed",
+    "dimensionName": "Processing Speed",
+    "text": "How many zeros are in the number one million?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "7"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": 10,
+    "explanation": null
+  },
+  {
+    "id": "ei-001",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "How would you react if a colleague cried in front of you?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ignore them."
+      },
+      {
+        "id": "B",
+        "text": "Ask them what is wrong."
+      },
+      {
+        "id": "C",
+        "text": "Laugh."
+      },
+      {
+        "id": "D",
+        "text": "Leave immediately."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Empathy and support are important in such situations."
+  },
+  {
+    "id": "ei-002",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "What would you do if a child was afraid of the dark?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tell them to stop being scared."
+      },
+      {
+        "id": "B",
+        "text": "Turn on a light and talk to them calmly."
+      },
+      {
+        "id": "C",
+        "text": "Laugh with them."
+      },
+      {
+        "id": "D",
+        "text": "Leave them alone in the dark."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Calmness and support help overcome fear."
+  },
+  {
+    "id": "ei-003",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "How would you handle a friend who is angry with you?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yell at them to calm down."
+      },
+      {
+        "id": "B",
+        "text": "Listen and try to understand why they are angry."
+      },
+      {
+        "id": "C",
+        "text": "Leave without saying anything."
+      },
+      {
+        "id": "D",
+        "text": "Tell them they are wrong."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Listening and understanding are key to resolving conflicts."
+  },
+  {
+    "id": "ei-004",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "What would you do if someone told you that you are not doing well at work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ignore them."
+      },
+      {
+        "id": "B",
+        "text": "Ask for feedback to improve."
+      },
+      {
+        "id": "C",
+        "text": "Get angry and leave."
+      },
+      {
+        "id": "D",
+        "text": "Cry."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Constructive criticism helps with personal growth."
+  },
+  {
+    "id": "ei-005",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "What would you do if a team member was not cooperating?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Exclude them from the team."
+      },
+      {
+        "id": "B",
+        "text": "Talk to them privately to understand the problem."
+      },
+      {
+        "id": "C",
+        "text": "Blame them publicly."
+      },
+      {
+        "id": "D",
+        "text": "Ignore them."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Communication is key to solving problems."
+  },
+  {
+    "id": "ei-006",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "How would you handle a colleague who speaks to you rudely?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Respond in the same way."
+      },
+      {
+        "id": "B",
+        "text": "Ask them to speak with respect."
+      },
+      {
+        "id": "C",
+        "text": "Leave without saying anything."
+      },
+      {
+        "id": "D",
+        "text": "Cry."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Respect is fundamental in any relationship."
+  },
+  {
+    "id": "ei-007",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "What would you do if a friend was sad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ignore them."
+      },
+      {
+        "id": "B",
+        "text": "Ask what is wrong and listen."
+      },
+      {
+        "id": "C",
+        "text": "Laugh with them."
+      },
+      {
+        "id": "D",
+        "text": "Leave immediately."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Empathy and support are important."
+  },
+  {
+    "id": "ei-008",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "How would you react if someone told you they don't like you?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Get angry."
+      },
+      {
+        "id": "B",
+        "text": "Ask them to explain why."
+      },
+      {
+        "id": "C",
+        "text": "Leave without saying anything."
+      },
+      {
+        "id": "D",
+        "text": "Cry."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Understanding the reasons helps improve relationships."
+  },
+  {
+    "id": "ei-009",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "What would you do if a colleague had a personal problem and couldn't focus on work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Criticize them for lack of focus."
+      },
+      {
+        "id": "B",
+        "text": "Offer help or support."
+      },
+      {
+        "id": "C",
+        "text": "Ignore them."
+      },
+      {
+        "id": "D",
+        "text": "Leave work."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Support during difficult times is important."
+  },
+  {
+    "id": "ei-010",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "How would you react if a friend told you they disagree with your opinions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Get angry and argue."
+      },
+      {
+        "id": "B",
+        "text": "Listen and discuss calmly."
+      },
+      {
+        "id": "C",
+        "text": "Ignore them."
+      },
+      {
+        "id": "D",
+        "text": "Leave without saying anything."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Calmness and dialogue are key to understanding."
+  },
+  {
+    "id": "ei-011",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "How would you react if a neighbor asked for help with something you don’t know how to do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would tell them I cannot help."
+      },
+      {
+        "id": "B",
+        "text": "I would suggest finding someone who knows."
+      },
+      {
+        "id": "C",
+        "text": "I would ignore them."
+      },
+      {
+        "id": "D",
+        "text": "I would yell at them."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Cooperation and support are important."
+  },
+  {
+    "id": "ei-012",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "How would you react if someone told you they don’t like you?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would get angry."
+      },
+      {
+        "id": "B",
+        "text": "I would ask them to explain why."
+      },
+      {
+        "id": "C",
+        "text": "I would leave without saying anything."
+      },
+      {
+        "id": "D",
+        "text": "I would cry."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Understanding the reasons helps improve relationships."
+  },
+  {
+    "id": "ei-013",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "What would you do if a colleague had a personal problem and couldn’t focus on work?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would criticize them for lack of focus."
+      },
+      {
+        "id": "B",
+        "text": "I would offer help or support."
+      },
+      {
+        "id": "C",
+        "text": "I would ignore them."
+      },
+      {
+        "id": "D",
+        "text": "I would leave work."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Support during difficult times is important."
+  },
+  {
+    "id": "ei-014",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "A coworker takes credit for your project idea in a meeting. What is the most emotionally intelligent response?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yell at them immediately"
+      },
+      {
+        "id": "B",
+        "text": "Say nothing and resent them"
+      },
+      {
+        "id": "C",
+        "text": "Address it privately and calmly with them later"
+      },
+      {
+        "id": "D",
+        "text": "Complain to all your other coworkers"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-015",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "What primary emotion is usually characterized by a downturned mouth, slouched posture, and withdrawal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Joy"
+      },
+      {
+        "id": "B",
+        "text": "Anger"
+      },
+      {
+        "id": "C",
+        "text": "Surprise"
+      },
+      {
+        "id": "D",
+        "text": "Sadness"
+      }
+    ],
+    "correctAnswer": "D",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-016",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "Which of the following best defines 'Empathy'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Feeling pity for someone's misfortune"
+      },
+      {
+        "id": "B",
+        "text": "Understanding and sharing the feelings of another"
+      },
+      {
+        "id": "C",
+        "text": "Ignoring emotions to focus on facts"
+      },
+      {
+        "id": "D",
+        "text": "Always agreeing with others"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-017",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "A friend cancels plans last minute because they feel overwhelmed with anxiety. You should:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Guilt trip them for ruining your night"
+      },
+      {
+        "id": "B",
+        "text": "Express understanding and ask how you can support them"
+      },
+      {
+        "id": "C",
+        "text": "Ignore their messages for a week"
+      },
+      {
+        "id": "D",
+        "text": "Tell them to 'get over it'"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-018",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "Which body language cue is generally a sign of active, engaged listening?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Checking your phone constantly"
+      },
+      {
+        "id": "B",
+        "text": "Crossing your arms tightly"
+      },
+      {
+        "id": "C",
+        "text": "Maintaining appropriate eye contact and nodding"
+      },
+      {
+        "id": "D",
+        "text": "Staring blankly past the person"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-019",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "Recognizing that your own stress is causing you to snap at others is an example of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Self-awareness"
+      },
+      {
+        "id": "B",
+        "text": "Social manipulation"
+      },
+      {
+        "id": "C",
+        "text": "Apathy"
+      },
+      {
+        "id": "D",
+        "text": "Defensiveness"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-020",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "When receiving constructive criticism from a boss, the best approach is to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Argue back immediately to defend yourself"
+      },
+      {
+        "id": "B",
+        "text": "Listen openly, ask clarifying questions, and reflect"
+      },
+      {
+        "id": "C",
+        "text": "Cry to make them feel bad"
+      },
+      {
+        "id": "D",
+        "text": "Quit the job on the spot"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-021",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "The phrase 'Reading the room' refers to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Checking the thermostat"
+      },
+      {
+        "id": "B",
+        "text": "Sensing the collective emotional mood of a group"
+      },
+      {
+        "id": "C",
+        "text": "Looking for the exit signs"
+      },
+      {
+        "id": "D",
+        "text": "Reading a speech from a podium"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-022",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "If someone crosses their arms and physically turns their body away from you during a conversation, they might be expressing:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Extreme joy"
+      },
+      {
+        "id": "B",
+        "text": "Complete agreement"
+      },
+      {
+        "id": "C",
+        "text": "Defensiveness or discomfort"
+      },
+      {
+        "id": "D",
+        "text": "Boredom to the point of sleep"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-023",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "Taking a deep breath to regulate your temper during a stressful traffic jam is an example of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Self-management"
+      },
+      {
+        "id": "B",
+        "text": "Social awareness"
+      },
+      {
+        "id": "C",
+        "text": "Empathy"
+      },
+      {
+        "id": "D",
+        "text": "Relationship management"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "ei-024",
+    "dimension": "emotional-intelligence",
+    "dimensionName": "Emotional Intelligence",
+    "text": "What is a healthy, emotionally mature way to handle a disagreement with a partner?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giving them the silent treatment"
+      },
+      {
+        "id": "B",
+        "text": "Bringing up past mistakes to win the argument"
+      },
+      {
+        "id": "C",
+        "text": "Collaborating to find a mutually beneficial solution"
+      },
+      {
+        "id": "D",
+        "text": "Walking out and slamming the door"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-001",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "How many different ways can you use an A4 paper?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1–2"
+      },
+      {
+        "id": "B",
+        "text": "3–5"
+      },
+      {
+        "id": "C",
+        "text": "More than 10"
+      },
+      {
+        "id": "D",
+        "text": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "A4 paper can be used for writing, drawing, origami, crafts, and more."
+  },
+  {
+    "id": "c-002",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "What would you do with an old shoebox you no longer need?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Throw it away."
+      },
+      {
+        "id": "B",
+        "text": "Use it as storage."
+      },
+      {
+        "id": "C",
+        "text": "Turn it into a small bed for a cat."
+      },
+      {
+        "id": "D",
+        "text": "Leave it in the attic."
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "Creative repurposing shows divergent thinking."
+  },
+  {
+    "id": "c-003",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "How would you decorate an empty wall with a budget of $10?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Buy an expensive painting."
+      },
+      {
+        "id": "B",
+        "text": "Paint the wall with colors."
+      },
+      {
+        "id": "C",
+        "text": "Hang pictures from magazines."
+      },
+      {
+        "id": "D",
+        "text": "Leave it empty."
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "Creative use of low-cost materials is a great solution."
+  },
+  {
+    "id": "c-004",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "How would you solve a problem with no obvious solution?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ignore it."
+      },
+      {
+        "id": "B",
+        "text": "Think outside the box."
+      },
+      {
+        "id": "C",
+        "text": "Wait for someone else to solve it."
+      },
+      {
+        "id": "D",
+        "text": "Get angry."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Creative thinking helps find innovative solutions."
+  },
+  {
+    "id": "c-005",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "What would you do if given a blank canvas and paints?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Leave it blank."
+      },
+      {
+        "id": "B",
+        "text": "Paint a landscape."
+      },
+      {
+        "id": "C",
+        "text": "Create an abstract piece of art."
+      },
+      {
+        "id": "D",
+        "text": "Use it as a coaster."
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "Creativity has no limits!"
+  },
+  {
+    "id": "c-006",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "How would you use an old non-working radio?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Throw it away."
+      },
+      {
+        "id": "B",
+        "text": "Turn it into a decorative item."
+      },
+      {
+        "id": "C",
+        "text": "Keep it in the attic."
+      },
+      {
+        "id": "D",
+        "text": "Sell it for parts."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Creative repurposing is a great solution."
+  },
+  {
+    "id": "c-007",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "What if asked to write a story with the theme 'The Journey of Water'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Copy an existing story."
+      },
+      {
+        "id": "B",
+        "text": "Create a fantastic story with personal ideas."
+      },
+      {
+        "id": "C",
+        "text": "Give up."
+      },
+      {
+        "id": "D",
+        "text": "Write a boring description."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Creativity and imagination are key to a good story."
+  },
+  {
+    "id": "c-008",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "How would you decorate a room on a very limited budget?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Buy expensive furniture."
+      },
+      {
+        "id": "B",
+        "text": "Use DIY ideas with recycled materials."
+      },
+      {
+        "id": "C",
+        "text": "Leave it empty."
+      },
+      {
+        "id": "D",
+        "text": "Ask a decorator for help."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Creative use of low-cost materials is a great solution."
+  },
+  {
+    "id": "c-009",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "What would you do if given the opportunity to design a new game?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Copy an existing game."
+      },
+      {
+        "id": "B",
+        "text": "Create an innovative game with unique rules."
+      },
+      {
+        "id": "C",
+        "text": "Give up."
+      },
+      {
+        "id": "D",
+        "text": "Ask someone else to do it."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Creativity and innovation are key to a new game."
+  },
+  {
+    "id": "c-010",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "What would you do if given a box of paints and brushes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Keep them closed."
+      },
+      {
+        "id": "B",
+        "text": "Paint a picture with imagination."
+      },
+      {
+        "id": "C",
+        "text": "Throw them away."
+      },
+      {
+        "id": "D",
+        "text": "Give them to someone else."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Creativity and imagination are key to art."
+  },
+  {
+    "id": "c-011",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "How would you decorate an empty wall in your home with a budget of $10?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would buy an expensive painting."
+      },
+      {
+        "id": "B",
+        "text": "I would paint the wall with colors."
+      },
+      {
+        "id": "C",
+        "text": "I would hang pictures from magazines."
+      },
+      {
+        "id": "D",
+        "text": "I would leave it empty."
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": "Creative use of low-cost materials is a great idea."
+  },
+  {
+    "id": "c-012",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "What would you do if asked to design a new product for your company?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would copy an existing product."
+      },
+      {
+        "id": "B",
+        "text": "I would collaborate with others to create something new."
+      },
+      {
+        "id": "C",
+        "text": "I would give up."
+      },
+      {
+        "id": "D",
+        "text": "I would ask someone else to do it."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Collaboration and innovation are key to creativity."
+  },
+  {
+    "id": "c-013",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "What would you do if asked to write a story with the theme 'The Journey of Water'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would copy an existing story."
+      },
+      {
+        "id": "B",
+        "text": "I would create a fantastic story with personal ideas."
+      },
+      {
+        "id": "C",
+        "text": "I would give up."
+      },
+      {
+        "id": "D",
+        "text": "I would write a boring description."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Creativity and imagination are key to a good story."
+  },
+  {
+    "id": "c-014",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "How would you decorate a room on a limited budget?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I would buy expensive furniture."
+      },
+      {
+        "id": "B",
+        "text": "I would use DIY ideas with recycled materials."
+      },
+      {
+        "id": "C",
+        "text": "I would leave it empty."
+      },
+      {
+        "id": "D",
+        "text": "I would ask a decorator for help."
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": "Creative use of low-cost materials is a great solution."
+  },
+  {
+    "id": "c-015",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "Which of these represents the most unconventional, divergent use for a standard house brick?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Building a garden wall"
+      },
+      {
+        "id": "B",
+        "text": "Holding down a tarp in the wind"
+      },
+      {
+        "id": "C",
+        "text": "Grinding it into powder to make red paint pigment"
+      },
+      {
+        "id": "D",
+        "text": "Using it as a temporary doorstop"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-016",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "Remote Association: What single word links these three: 'Cottage', 'Swiss', 'Cake'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "House"
+      },
+      {
+        "id": "B",
+        "text": "Chocolate"
+      },
+      {
+        "id": "C",
+        "text": "Cheese"
+      },
+      {
+        "id": "D",
+        "text": "Mountain"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-017",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "Remote Association: What single word links these three: 'Falling', 'Actor', 'Dust'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Movie"
+      },
+      {
+        "id": "B",
+        "text": "Star"
+      },
+      {
+        "id": "C",
+        "text": "Stage"
+      },
+      {
+        "id": "D",
+        "text": "Sky"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-018",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "If humans suddenly no longer needed to sleep at all, which industry would inherently suffer the most immediate collapse?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coffee shops"
+      },
+      {
+        "id": "B",
+        "text": "Mattress manufacturing"
+      },
+      {
+        "id": "C",
+        "text": "Late-night television"
+      },
+      {
+        "id": "D",
+        "text": "The restaurant industry"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-019",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "Which of these words is a creative 'portmanteau' (a blend of two distinct words)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Unbelievable"
+      },
+      {
+        "id": "B",
+        "text": "Brunch"
+      },
+      {
+        "id": "C",
+        "text": "Happiness"
+      },
+      {
+        "id": "D",
+        "text": "Keyboard"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-020",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "Remote Association: What single word links these three: 'Light', 'Village', 'Golf'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Club"
+      },
+      {
+        "id": "B",
+        "text": "Green"
+      },
+      {
+        "id": "C",
+        "text": "House"
+      },
+      {
+        "id": "D",
+        "text": "Cart"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-021",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "Which idea represents a 'divergent' approach to fixing a broken wooden table leg?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gluing the broken pieces back together carefully"
+      },
+      {
+        "id": "B",
+        "text": "Replacing it with an identical wooden leg from the store"
+      },
+      {
+        "id": "C",
+        "text": "Replacing the leg with a tight stack of old hardcover books"
+      },
+      {
+        "id": "D",
+        "text": "Nailing the pieces back together"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-022",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "Remote Association: What single word links these three: 'Water', 'Mine', 'Rush'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gold"
+      },
+      {
+        "id": "B",
+        "text": "Deep"
+      },
+      {
+        "id": "C",
+        "text": "Coal"
+      },
+      {
+        "id": "D",
+        "text": "Flow"
+      }
+    ],
+    "correctAnswer": "A",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-023",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "Which task inherently requires more 'divergent thinking' (generating many unique solutions)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solving a 100-piece jigsaw puzzle"
+      },
+      {
+        "id": "B",
+        "text": "Calculating 24 x 18"
+      },
+      {
+        "id": "C",
+        "text": "Brainstorming 20 alternative uses for a paperclip"
+      },
+      {
+        "id": "D",
+        "text": "Memorizing a short poem"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-024",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "If gravity was briefly reversed for 30 seconds while you were indoors, what is the most creative immediate solution to stay safe?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Try to hold onto the smooth hardwood floor"
+      },
+      {
+        "id": "B",
+        "text": "Grab onto a heavy appliance that is bolted to the wall/floor"
+      },
+      {
+        "id": "C",
+        "text": "Jump up toward the ceiling"
+      },
+      {
+        "id": "D",
+        "text": "Run outside as fast as possible"
+      }
+    ],
+    "correctAnswer": "B",
+    "timeLimit": null,
+    "explanation": null
+  },
+  {
+    "id": "c-025",
+    "dimension": "creativity",
+    "dimensionName": "Creativity",
+    "text": "An anagram for the word 'SILENT' that creatively reveals an action related to silence is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "INLETS"
+      },
+      {
+        "id": "B",
+        "text": "TINSEL"
+      },
+      {
+        "id": "C",
+        "text": "LISTEN"
+      },
+      {
+        "id": "D",
+        "text": "ENLIST"
+      }
+    ],
+    "correctAnswer": "C",
+    "timeLimit": null,
+    "explanation": null
+  }
+]
