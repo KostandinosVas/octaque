@@ -479,7 +479,7 @@ export default function HomePage() {
             </HeroContent>
             <HeroVisual>
               <BrainCard>
-                <img src="../../public/images/brain02.png" alt="" />
+                <img src="/images/brain02.png" alt="" />
                 <FloatTag $top="-14px" $right="-14px">
                   <TagDot $color="#10b981" />IQ: 127 Estimated
                 </FloatTag>
