@@ -300,32 +300,6 @@ const RevAvatar = styled.div<{ $g: string }>`
 const RevName = styled.div`font-weight:700;font-size:0.875rem;color:#0f172a;`;
 const RevSub  = styled.div`font-size:0.75rem;color:#94a3b8;`;
 
-const LeaderTable = styled.div`
-  margin-top:3rem;border-radius:1.5rem;overflow:hidden;
-  border:1px solid #e2e8f0;box-shadow:0 4px 16px rgba(0,0,0,0.04);
-`;
-const LeaderHead = styled.div`
-  background:linear-gradient(135deg,#6b38d4,#4f46e5);
-  color:white;padding:1.25rem 1.5rem;
-  display:flex;align-items:center;justify-content:space-between;
-`;
-const LeaderTitleText = styled.span`font-family:'Anybody',sans-serif;font-size:1.0625rem;font-weight:700;`;
-const LeaderRow  = styled.div<{ $top?: boolean }>`
-  display:flex;align-items:center;gap:1rem;padding:1rem 1.5rem;
-  background:${p=>p.$top?'rgba(107,56,212,0.03)':'white'};
-  border-bottom:1px solid #f1f5f9;
-  &:last-child{border-bottom:none;}
-`;
-const LeaderRankCell = styled.div`font-size:1.375rem;width:2rem;text-align:center;flex-shrink:0;`;
-const LeaderAv   = styled.div<{ $g: string }>`
-  width:40px;height:40px;border-radius:50%;background:${p=>p.$g};
-  display:flex;align-items:center;justify-content:center;
-  color:white;font-weight:700;font-size:0.875rem;flex-shrink:0;
-`;
-const LeaderInfo  = styled.div`flex:1;`;
-const LeaderName  = styled.div`font-weight:700;font-size:0.9375rem;color:#0f172a;`;
-const LeaderScore = styled.div`font-size:0.8125rem;color:#64748b;`;
-const LeaderIQ    = styled.div`font-family:'Anybody',sans-serif;font-size:1.125rem;font-weight:800;color:#6b38d4;`;
 
 /* ═══ FAQ ═══ */
 const FAQList = styled.div`
@@ -419,7 +393,6 @@ const STEPS = [
 const WHY = [
   { icon: '🔍', title: 'Know Your Strengths', desc: 'Identify which cognitive areas you excel in and where you have room to grow.' },
   { icon: '🏆', title: 'Challenge Yourself',  desc: 'Push your mental limits and see how your scores improve over time.' },
-  { icon: '🌍', title: 'Compare Globally',    desc: 'Benchmark your performance against a worldwide pool of test-takers.' },
   { icon: '⚡', title: 'Instant Results',     desc: 'No waiting — get your full cognitive profile the moment you finish.' },
   { icon: '📱', title: 'Works Everywhere',    desc: 'Fully responsive. Take the test on your phone, tablet, or desktop.' },
   { icon: '🔒', title: 'Private & Secure',    desc: 'Your results stay on your device. We never store personal data.' },
@@ -436,14 +409,6 @@ const TESTIMONIALS = [
   { quote: "This test was surprisingly accurate and eye-opening. I finally understand why I'm better at visual puzzles than verbal ones.", name: 'Sophia M.', sub: 'IQ Score: 127', av: 'SM', g: 'linear-gradient(135deg,#6b38d4,#4f46e5)' },
   { quote: 'Clear, fair, and genuinely challenging. The detailed breakdown is far more useful than a single number.', name: 'James K.', sub: 'IQ Score: 118', av: 'JK', g: 'linear-gradient(135deg,#0ea5e9,#2563eb)' },
   { quote: "I've tried plenty of online IQ tests. This one is the most thorough and the results actually felt credible.", name: 'Priya N.', sub: 'IQ Score: 134', av: 'PN', g: 'linear-gradient(135deg,#10b981,#059669)' },
-];
-
-const LEADERBOARD = [
-  { rank: 1, medal: '🥇', name: 'MindMaster_99', score: 'IQ 142', sub: '90 / 90 correct', av: 'M', g: 'linear-gradient(135deg,#f59e0b,#ef4444)' },
-  { rank: 2, medal: '🥈', name: 'LogicQueen',    score: 'IQ 138', sub: '87 / 90 correct', av: 'L', g: 'linear-gradient(135deg,#6b38d4,#a78bfa)' },
-  { rank: 3, medal: '🥉', name: 'NeoThinker',    score: 'IQ 135', sub: '85 / 90 correct', av: 'N', g: 'linear-gradient(135deg,#0ea5e9,#10b981)' },
-  { rank: 4, medal: '4',  name: 'BrainHawk',     score: 'IQ 131', sub: '83 / 90 correct', av: 'B', g: 'linear-gradient(135deg,#ec4899,#f97316)' },
-  { rank: 5, medal: '5',  name: 'QuantumMind',   score: 'IQ 129', sub: '81 / 90 correct', av: 'Q', g: 'linear-gradient(135deg,#14b8a6,#0ea5e9)' },
 ];
 
 const FAQS = [
@@ -522,7 +487,7 @@ export default function HomePage() {
             </HeroContent>
             <HeroVisual>
               <BrainCard>
-                <BrainEmoji>🧠</BrainEmoji>
+                <img src="../../public/images/brain02.png" alt="" />
                 <FloatTag $top="-14px" $right="-14px">
                   <TagDot $color="#10b981" />IQ: 127 Estimated
                 </FloatTag>
@@ -625,24 +590,6 @@ export default function HomePage() {
                 </TestCard>
               ))}
             </TestGrid>
-
-            <LeaderTable>
-              <LeaderHead>
-                <LeaderTitleText>🏆 Global Leaderboard</LeaderTitleText>
-                <span style={{ fontSize: '0.8125rem', opacity: 0.8 }}>Top scores this month</span>
-              </LeaderHead>
-              {LEADERBOARD.map(p => (
-                <LeaderRow key={p.rank} $top={p.rank === 1}>
-                  <LeaderRankCell>{p.medal}</LeaderRankCell>
-                  <LeaderAv $g={p.g}>{p.av}</LeaderAv>
-                  <LeaderInfo>
-                    <LeaderName>{p.name}</LeaderName>
-                    <LeaderScore>{p.sub}</LeaderScore>
-                  </LeaderInfo>
-                  <LeaderIQ>{p.score}</LeaderIQ>
-                </LeaderRow>
-              ))}
-            </LeaderTable>
           </Container>
         </SectionWrap>
 
